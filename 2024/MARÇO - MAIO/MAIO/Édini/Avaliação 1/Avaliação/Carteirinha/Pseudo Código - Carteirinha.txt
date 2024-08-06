@@ -1,0 +1,45 @@
+Inicio
+
+        ESCREVA "Digite o nome da pessoa: "
+        LEIA nome1
+
+	ESCREVA "Digite o valor do ingresso: "
+	LEIA valor1
+
+	ESCREVA "Digite o tipo do ingresso (inteira ou meia): "
+	LEIA tipo1
+
+SE tipo1 IGUAL A 'meia'
+ 
+        ESCREVA "Digite o número da carteirinha de estudante: "
+        LEIA carteirinha1
+SE NÃO carteirinha1:
+	IMPRIMIR "Você precisa apresentar uma carteirinha de estudante para comprar ingresso meia."
+
+
+        ESCREVA "Digite o nome da pessoa: "
+        LEIA nome2
+
+	ESCREVA "Digite o valor do ingresso: "
+	LEIA valor2
+
+	ESCREVA "Digite o tipo do ingresso (inteira ou meia): "
+	LEIA tipo2
+
+SE tipo1 IGUAL A 'meia'
+ 
+        ESCREVA "Digite o número da carteirinha de estudante: "
+        LEIA carteirinha2
+SE NÃO carteirinha2:
+	IMPRIMIR "Você precisa apresentar uma carteirinha de estudante para comprar ingresso meia."
+
+valor_total IGUAL A valor1 + (valor2 / 2 se tipo2 igual a "meia", senão valor2)
+
+
+IMPRIMIR "Resumo da compra:"
+IMPRIMIR "Nome:", nome1, ", Tipo:", tipo1, ", Valor: R$", valor1
+IMPRIMIR "Nome:", nome2, ", Tipo:", tipo2, ", Valor: R$", valor2
+IMPRIMIR "Total da compra: R$", valor_total
+
+
+fim

@@ -1,0 +1,20 @@
+Sistema de inscrição de candidatos
+
+Se tiver idade minima de 18 anos, ela passa na primeira fase;
+
+Se possui curso da área ela passa para a segunda fase.
+
+Se na terceira fase a nota for maior que 7.0 ela estará apta para a etapa final, 
+senão, ela recebe um email com a mensagem de agradecimento.
+
+
+Váriaveis:
+
+cargo, nome_completo, idade, email, curso, nota, mensagem
+
+A cada fase a pessoa recebe o seguinte email: Parabéns você passou para a próxima 
+fase!! 
+
+Ou Obrigado pela sua participação!!
+
+

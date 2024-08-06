@@ -1,0 +1,2 @@
+Crie um fluxograma e o pseudocodigo que receba o nome da pessoa, receba o valor do ingresso e o tipo do ingresso (meia ou inteira), caso seja meia receba a carteirinha.
+Calcule no final o valor total da compra com todos os ingressos comprados e imprima quais os tipos de ingresso.

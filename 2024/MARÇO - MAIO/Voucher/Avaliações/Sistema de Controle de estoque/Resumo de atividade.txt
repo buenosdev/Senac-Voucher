@@ -1,0 +1,19 @@
+Resumo: 
+
+A empresa Voucher Desenvolvedor, especializada na venda de produtos eletrônicos, está enfrentando desafios no controle de estoque devido ao aumento da complexidade de suas operações. Eles precisam de um sistema automatizado para gerenciar seu estoque de produtos e garantir que tenham sempre os itens certos em quantidade suficiente. Os funcionários da empresa passam muito tempo atualizando manualmente os registros de estoque, o que resulta em erros e atrasos. Eles estão buscando uma solução eficiente para otimizar esse processo. 
+
+Descrição do Problema: 
+
+A empresa Voucher Desenvolvedor possui um vasto catálogo de produtos eletrônicos, cada um com seu próprio código, descrição e quantidade em estoque. Eles recebem regularmente novos produtos e também vendem produtos para clientes. O desafio é manter registros precisos do estoque atualizado em tempo real, para que possam evitar a falta de produtos ou excesso de estoque, o que pode resultar em perdas financeiras. Para resolver o cenário 1 faça: 
+
+A) Levantamento de requisitos (funcionais e não funcionais); 
+
+B) Diagramas UML (Caso de Uso); 
+
+C) Documento com levantamento de requisitos e diagramas UML; 
+
+D) Algoritmo em python. 
+
+E) Apresentação da atividade (Em slides) 
+
+F) Ao finalizar a atividade coloque na pasta compartilhada no Microsoft Teams 
