@@ -1,0 +1,11 @@
+Analizar:
+- [ ] Tela de rastreio (Isabela)
+- [ ] Páginas de produtos (Roberto)
+- [x] Atualizar produto (Ezequiel)
+- [ ] ==Efeito parallax (Carlos)==
+- [x] Tela de administração do Caroussel (Luis Virissimo)
+- [ ] Fazer a re-modelagem dos produtos (Deixar menor e mais agradável aos olhos)(Luis cunha)
+- [ ] ==Telas de privacidade (Alex)==
+- [ ] Diagrama de Classes (Rodrigo)
+- [ ] ==Remodelar página inicial(Ana e Elias)==
+- [x] Mudança na página de pagamento (Luis Virissimo)
