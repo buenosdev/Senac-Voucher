@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "33cea126352aa011",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb6b45cfddfdccf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e390caae1bb762b3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "83a878f7d1ad3b61",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c992efd4fa1630a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "eac910b499e99525",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e54f7bc8b701207b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "44e43d67b3b94e02",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5f3951784705b716",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f79ee8f23a3367cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "975b2ab09014717e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5f8981ffff79d46",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5eaa3351010783f4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f0e2be4ffdc89a33",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b498368731614a2b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "83a878f7d1ad3b61",
+  "lastOpenFiles": [
+    "2024/AGOSTO/João/050824/Catálogo de cursos/20120709182538664360a.pdf",
+    "2024/ARQUIVOS/Imagens/Logos/Fike/polygonal-luxury-dark-background/2880456.jpg",
+    "Sem título",
+    "Pessoal/Diamond.ico",
+    "Pessoal/Math Game/Math-Game V1/Math-Game-main/dificuldade/modo_facil/modo_sp- Adição/script/multiplayer/server.js",
+    "Pessoal/Math Game/Math-Game V1/Math-Game-main/dificuldade/modo_facil/modo_sp- Adição/script/multiplayer/multiplayer.js",
+    "Pessoal/Math Game/Math-Game V1/Math-Game-main/dificuldade/modo_facil/modo_sp- Subtração/sons/hover.mp3",
+    "Pessoal/Math Game/Math-Game V1/Math-Game-main/dificuldade/modo_facil/modo_sp- Subtração/sons/error (3).mp3",
+    "Pessoal/Math Game/Math-Game V1/Math-Game-main/dificuldade/modo_facil/modo_sp- Subtração/sons/timer.mp3",
+    "Pessoal/Math Game/Math-Game/dificuldade/modo_facil/modo_sp- Adição/script/multiplayer/server.js",
+    "Pessoal/Math Game/Math-Game/dificuldade/modo_facil/modo_sp- Adição/script/multiplayer/multiplayer.js",
+    "Pessoal/Math Game/Math-Game V1/Math-Game-main/dificuldade/modo_facil/modo_sp- Subtração/sons/keypress (2).mp3",
+    "Pessoal/Math Game/Math-Game V1/Math-Game-main/dificuldade/modo_facil/modo_sp- Subtração/logo.png",
+    "Pessoal/Math Game/Math-Game V1/Math-Game-main/dificuldade/modo_facil/modo_sp- Multiplicação/logo.png",
+    "Pessoal/Math Game/Math-Game V1/Math-Game-main/dificuldade/modo_facil/modo_sp- Divisão/logo.png",
+    "Pessoal/Math Game/Math-Game V1/Math-Game-main/dificuldade/modo_facil/modo_sp- Adição/logo.png",
+    "Pessoal/Math Game/Math-Game/dificuldade/modo_facil/modo_sp- Divisão/logo.png",
+    "Pessoal/Math Game/Math-Game/dificuldade/modo_facil/modo_sp- Subtração/logo.png",
+    "Pessoal/Math Game/Math-Game/dificuldade/modo_facil/modo_sp- Multiplicação/logo.png",
+    "Pessoal/Math Game/Math-Game/dificuldade/modo_facil/modo_sp- Adição/logo.png",
+    "Pessoal/Math Game/Math-Game V1/Math-Game-main/dificuldade/modo_sp/logo.png",
+    "Computação gráfica/Imagens/Logos/logos fike/Assets/Logos Fike.md",
+    "Computação gráfica/2024/JUNHO/Munique/250624/Munique - Propriedade intelectual.md",
+    "Computação gráfica/2024/JUNHO/Munique/270624/Munique - Propriedade industrial.md",
+    "Computação gráfica/2024/JUNHO/Munique/040624/Fike.md",
+    "Computação gráfica/2024/JUNHO/Munique/180624/Modelo de contratos.md",
+    "Computação gráfica/Fontes/Fontes.md",
+    "Computação gráfica/2024/MAIO/João - Maio.md",
+    "Computação gráfica/Pessoal/Projetos/Não entre/JOGOS/Jogos.md",
+    "Computação gráfica/Pessoal/PROJETOS/Não entre/JOGOS/Jogos.md",
+    "Computação gráfica/PESSOAL/PROJETOS/Não entre/JOGOS/Jogos.md",
+    "Computação gráfica/Imagens/Logos/logos fike/Logos Fike.md",
+    "Computação gráfica/Imagens/Logos/Innova/Innova.md",
+    "Computação gráfica/Links/Link das aulas.md",
+    "Computação gráfica/2024/JUNHO/Munique/Resumo/Link das aulas.md",
+    "Computação gráfica/2024/JUNHO/Munique/Resumo/Resumo das aulas de Junho.md",
+    "image 20240627192455.png.md",
+    "Computação gráfica/2024/JUNHO/Munique/CG - Munique_25.06.24.md",
+    "Computação gráfica/2024/JUNHO/Munique/25.06.24.md",
+    "Computação gráfica/2024/JUNHO/Munique/Resumo das aulas de Junho.md",
+    "Computação gráfica/2024/JUNHO/Munique/Link das aulas.md",
+    "ORGANIZAÇÃO DE PASTAS.md",
+    "Computação gráfica/2024/JUNHO/CG - Munique_25.06.24.md",
+    "Computação gráfica/2024/JUNHO/Resumo das aulas de Junho.md",
+    "Computação gráfica/Link das aulas.md",
+    "Computação gráfica/JUNHO/Resumo das aulas de Junho.md"
+  ]
+}
