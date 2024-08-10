@@ -8,5 +8,15 @@
 
 # ValueError  quando o valor informado não for numérico​
 
-
-#Feito
+while True:
+    try:
+        x=int(input("Digite o primeiro número:\n"))
+        y=int(input("Digite o segundo número:\n"))
+    except ValueError:
+        print("Digite um número!!!")
+    try:
+            divisao=x/y
+            print(divisao)
+            break
+    except ArithmeticError:#ZeroDivisionError
+        print("Número digitado não pode ser zero")
