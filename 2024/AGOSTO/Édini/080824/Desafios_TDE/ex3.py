@@ -4,10 +4,9 @@
 
 dicio = {"00":0,"01":1,"02":2,"03":3}
 
-
-chave = int(input("Digite um valor para o dicionário: "))
-
+chave = input("Digite um valor para o dicionário: ")   
 try: 
+
     valor = dicio[chave]
     print(f"Valor associado a chave '{chave}': {valor}")
 except KeyError:
