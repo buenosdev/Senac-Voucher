@@ -5,5 +5,10 @@
 dicio = {"00":0,"01":1,"02":2,"03":3}
 
 
-int(input("Digite um valor para o dicionário"))
-print(f"Valores: {dicio}")
+chave = int(input("Digite um valor para o dicionário: "))
+
+try: 
+    valor = dicio[chave]
+    print(f"Valor associado a chave '{chave}': {valor}")
+except KeyError:
+    print("Erro, a chave não foi encontrada")
