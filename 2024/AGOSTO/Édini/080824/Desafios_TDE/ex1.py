@@ -7,3 +7,5 @@
 # ArithmeticException quando ocorrer uma divisão por zero.​
 
 # ValueError  quando o valor informado não for numérico​
+
+
