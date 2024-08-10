@@ -11,3 +11,4 @@ try:
     print(numero_int)  
 except NameError:
     print("| Nome errado |")
+.
