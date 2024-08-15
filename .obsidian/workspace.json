@@ -19,10 +19,8 @@
             "id": "83a878f7d1ad3b61",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -141,6 +139,11 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "webpage-html-export:Export Vault to HTML": false,
+      "flashcards-obsidian:Generate flashcards": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -149,8 +152,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "83a878f7d1ad3b61",
+  "active": "e54f7bc8b701207b",
   "lastOpenFiles": [
+    "Sem título.md",
     "2024/AGOSTO/João/050824/Catálogo de cursos/20120709182538664360a.pdf",
     "2024/ARQUIVOS/Imagens/Logos/Fike/polygonal-luxury-dark-background/2880456.jpg",
     "Sem título",
@@ -162,7 +166,6 @@
     "Pessoal/Math Game/Math-Game V1/Math-Game-main/dificuldade/modo_facil/modo_sp- Subtração/sons/timer.mp3",
     "Pessoal/Math Game/Math-Game/dificuldade/modo_facil/modo_sp- Adição/script/multiplayer/server.js",
     "Pessoal/Math Game/Math-Game/dificuldade/modo_facil/modo_sp- Adição/script/multiplayer/multiplayer.js",
-    "Pessoal/Math Game/Math-Game V1/Math-Game-main/dificuldade/modo_facil/modo_sp- Subtração/sons/keypress (2).mp3",
     "Pessoal/Math Game/Math-Game V1/Math-Game-main/dificuldade/modo_facil/modo_sp- Subtração/logo.png",
     "Pessoal/Math Game/Math-Game V1/Math-Game-main/dificuldade/modo_facil/modo_sp- Multiplicação/logo.png",
     "Pessoal/Math Game/Math-Game V1/Math-Game-main/dificuldade/modo_facil/modo_sp- Divisão/logo.png",
