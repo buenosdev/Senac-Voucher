@@ -71,7 +71,7 @@ Claro! Para garantir que a estrutura de diretórios com links clicáveis fique b
           - 📁 [teste](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/%C3%89dini/150824/teste)
         - 📁 [220824](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/%C3%89dini/220824)
 
-### Projetos usando Python banco de dados
+### Projetos usando banco de dados
 
 - 📁 [2024](https://github.com/buenosdev/Senac-Voucher/tree/main/2024)
   - 📁 [AGOSTO](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO)
