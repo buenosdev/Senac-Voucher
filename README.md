@@ -34,7 +34,87 @@ This repository is dedicated to documenting my progress in the Developer Voucher
     ├── 📁 Imagens
     └── 📄 Backlog - 17.07.24
 ```
+# Projetos usando Python
+
+## Breves Trabalhos e Avaliações
+```
+📁 2024
+├── 📁 MARÇO - MAIO
+│   ├── 📁 MARÇO
+│   │   └── 📁 Python
+│   ├── 📁 Projeto Amendoim
+│   │   └── 📄 Amendoim.txt
+│   ├── 📁 MAIO
+│   │   ├── 📁 Reforço
+│   │   │   └── 📁 Maio
+│   │   │       └── 📁 25.05
+│   │   └── 📁 Édini
+│   │       └── 📁 Avaliação 1
+│   │           └── 📁 Avaliação
+│   ├── 📁 JULHO
+│   │   ├── 📁 Édini
+│   │   │   └── 📁 Exercicio
+│   │   └── 📁 Enilda
+│   │       └── 📁 Desafios pré maratona
+│   │           └── 📁 Desafios Python
+│   └── 📁 AGOSTO
+│       ├── 📁 Édini
+│       │   ├── 📁 080824
+│       │   │   └── 📁 Desafios_TDE
+│       │   ├── 📁 150824
+│       │   │   └── 📁 teste
+│       │   └── 📁 220824
+```
+
+# Projetos usando Portugol
+
+```
+📁 2024
+└── 📁 MARÇO - MAIO
+    └── 📁 MARÇO
+        └── 📁 Algoritmos
+            └── 📁 Portugol
+```
+
+# Trabalhos de caso de uso e outros
+
+## Breves Trabalhos
+
+```
+📁 2024
+└── 📁 MARÇO - MAIO
+    └── 📁 MARÇO
+        ├── 📁 Analise e Requisitos de Sistemas
+        ├── 📁 Fluxogramas
+        └── 📁 Exercicios de lógica
+```
+
+## Trabalhos mais complexos
+
+```
+📁 2024
+└── 📁 MARÇO - MAIO
+    └── 📁 MARÇO
+        ├── 📁 Avaliações
+        │   └── 📁 Sistema de Controle de estoque
+        ├── 📁 Estudo de caso
+        └── 📁 Slides
+```
+
+# Projeto Integrador 
+### (O restante por enquanto está no figma)
+```
+📁 2024
+└── 📁 Projeto Integrador
+    └── 📁 Protótipo
+        ├── 📁 Diagrama
+        ├── 📁 Fontes
+        ├── 📁 Imagens
+        └── 📄 Backlog - 17.07.24
+```
+
+
+
 <div align="center">  
 <img src="https://github.com/user-attachments/assets/1d3ff942-8acf-452e-ba90-fbe85e48c3c9" alt="Senac Hub">
 </div>
-
