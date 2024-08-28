@@ -34,84 +34,97 @@ This repository is dedicated to documenting my progress in the Developer Voucher
     ├── 📁 Imagens
     └── 📄 Backlog - 17.07.24
 ```
-# Projetos usando Python
+Claro! Para garantir que a estrutura de diretórios com links clicáveis fique bem formatada no GitHub e não use pontinhos, aqui está a estrutura organizada com emojis e links diretamente integrados. Use esta formatação no seu README ou em qualquer outro lugar do GitHub para tornar a navegação mais fácil.
 
-## Breves Trabalhos e Avaliações
-```
-📁 2024
-├── 📁 MARÇO - MAIO
-│   ├── 📁 MARÇO
-│   │   └── 📁 Python
-│   ├── 📁 Projeto Amendoim
-│   │   └── 📄 Amendoim.txt
-│   ├── 📁 MAIO
-│   │   ├── 📁 Reforço
-│   │   │   └── 📁 Maio
-│   │   │       └── 📁 25.05
-│   │   └── 📁 Édini
-│   │       └── 📁 Avaliação 1
-│   │           └── 📁 Avaliação
-│   ├── 📁 JULHO
-│   │   ├── 📁 Édini
-│   │   │   └── 📁 Exercicio
-│   │   └── 📁 Enilda
-│   │       └── 📁 Desafios pré maratona
-│   │           └── 📁 Desafios Python
-│   └── 📁 AGOSTO
-│       ├── 📁 Édini
-│       │   ├── 📁 080824
-│       │   │   └── 📁 Desafios_TDE
-│       │   ├── 📁 150824
-│       │   │   └── 📁 teste
-│       │   └── 📁 220824
-```
+---
 
-# Projetos usando Portugol
+# Estrutura de Diretórios
 
-```
-📁 2024
-└── 📁 MARÇO - MAIO
-    └── 📁 MARÇO
-        └── 📁 Algoritmos
-            └── 📁 Portugol
-```
+## Projetos usando Python
 
-# Trabalhos de caso de uso e outros
+### Breves Trabalhos e Avaliações
 
-## Breves Trabalhos
+- 📁 [2024](https://github.com/buenosdev/Senac-Voucher/tree/main/2024)
+  - 📁 [MARÇO - MAIO](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/MAR%C3%87O%20-%20MAIO)
+    - 📁 [MARÇO](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/MAR%C3%87O%20-%20MAIO/MAR%C3%87O)
+      - 📁 [Python](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/MAR%C3%87O%20-%20MAIO/MAR%C3%87O/Python)
+    - 📁 [Projeto Amendoim](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/Projeto%20Amendoim)
+      - 📄 [Amendoim.txt](https://github.com/buenosdev/Senac-Voucher/blob/main/2024/Projeto%20Amendoim/Amendoim.txt)
+    - 📁 [MAIO](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/MAR%C3%87O%20-%20MAIO/MAIO)
+      - 📁 [Reforço](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/MAR%C3%87O%20-%20MAIO/MAIO/Refor%C3%A7o)
+        - 📁 [Maio](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/MAR%C3%87O%20-%20MAIO/MAIO/Refor%C3%A7o/Maio)
+          - 📁 [25.05](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/MAR%C3%87O%20-%20MAIO/MAIO/Refor%C3%A7o/Maio/25.05)
+      - 📁 [Édini](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/MAR%C3%87O%20-%20MAIO/MAIO/%C3%89dini)
+        - 📁 [Avaliação 1](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/MAR%C3%87O%20-%20MAIO/MAIO/%C3%89dini/Avalia%C3%A7%C3%A3o%201)
+          - 📁 [Avaliação](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/MAR%C3%87O%20-%20MAIO/MAIO/%C3%89dini/Avalia%C3%A7%C3%A3o%201/Avalia%C3%A7%C3%A3o)
+    - 📁 [JULHO](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/JULHO)
+      - 📁 [Édini](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/JULHO/%C3%89dini)
+        - 📁 [Exercicio](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/JULHO/%C3%89dini/Exercicio)
+      - 📁 [Enilda](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/JULHO/Enilda)
+        - 📁 [Desafios pré maratona](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/JULHO/Enilda/Desafios%20pr%C3%A9%20maratona)
+          - 📁 [Desafios Python](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/JULHO/Enilda/Desafios%20pr%C3%A9%20maratona/Desafios%20Python)
+    - 📁 [AGOSTO](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO)
+      - 📁 [Édini](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/%C3%89dini)
+        - 📁 [080824](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/%C3%89dini/080824)
+          - 📁 [Desafios_TDE](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/%C3%89dini/080824/Desafios_TDE)
+        - 📁 [150824](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/%C3%89dini/150824)
+          - 📁 [teste](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/%C3%89dini/150824/teste)
+        - 📁 [220824](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/%C3%89dini/220824)
 
-```
-📁 2024
-└── 📁 MARÇO - MAIO
-    └── 📁 MARÇO
-        ├── 📁 Analise e Requisitos de Sistemas
-        ├── 📁 Fluxogramas
-        └── 📁 Exercicios de lógica
-```
+### Projetos usando Python banco de dados
 
-## Trabalhos mais complexos
+- 📁 [2024](https://github.com/buenosdev/Senac-Voucher/tree/main/2024)
+  - 📁 [AGOSTO](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO)
+    - 📁 [Ederson](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/Ederson)
+      - 📁 [190824 - Outros dias antes](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/Ederson/190824%20-%20Outros%20dias%20antes)
+        - 📁 [Banco 2](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/Ederson/190824%20-%20Outros%20dias%20antes/Banco%202)
+        - 📁 [Escola](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/Ederson/190824%20-%20Outros%20dias%20antes/Escola)
+        - 📁 [Netflix](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/Ederson/190824%20-%20Outros%20dias%20antes/Netflix)
+      - 📁 [210824](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/Ederson/210824)
+      - 📁 [220824](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/Ederson/220824)
 
-```
-📁 2024
-└── 📁 MARÇO - MAIO
-    └── 📁 MARÇO
-        ├── 📁 Avaliações
-        │   └── 📁 Sistema de Controle de estoque
-        ├── 📁 Estudo de caso
-        └── 📁 Slides
-```
+### Projetos usando Portugol
 
-# Projeto Integrador 
-### (O restante por enquanto está no figma)
-```
-📁 2024
-└── 📁 Projeto Integrador
-    └── 📁 Protótipo
-        ├── 📁 Diagrama
-        ├── 📁 Fontes
-        ├── 📁 Imagens
-        └── 📄 Backlog - 17.07.24
-```
+- 📁 [2024](https://github.com/buenosdev/Senac-Voucher/tree/main/2024)
+  - 📁 [MARÇO - MAIO](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/MAR%C3%87O%20-%20MAIO)
+    - 📁 [MARÇO](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/MAR%C3%87O%20-%20MAIO/MAR%C3%87O)
+      - 📁 [Algoritmos](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/MAR%C3%87O%20-%20MAIO/MAR%C3%87O/Algoritmos)
+        - 📁 [Portugol](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/MAR%C3%87O%20-%20MAIO/MAR%C3%87O/Algoritmos/Portugol)
+
+## Trabalhos de caso de uso e outros
+
+### Breves Trabalhos
+
+- 📁 [2024](https://github.com/buenosdev/Senac-Voucher/tree/main/2024)
+  - 📁 [MARÇO - MAIO](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/MAR%C3%87O%20-%20MAIO)
+    - 📁 [MARÇO](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/MAR%C3%87O%20-%20MAIO/MAR%C3%87O)
+      - 📁 [Analise e Requisitos de Sistemas](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/MAR%C3%87O%20-%20MAIO/MAR%C3%87O/Analise%20e%20Requisitos%20de%20Sistemas)
+      - 📁 [Fluxogramas](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/MAR%C3%87O%20-%20MAIO/MAR%C3%87O/Fluxogramas)
+      - 📁 [Exercicios de lógica](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/MAR%C3%87O%20-%20MAIO/MAR%C3%87O/Exercicios%20de%20l%C3%B3gica)
+
+### Trabalhos mais complexos
+
+- 📁 [2024](https://github.com/buenosdev/Senac-Voucher/tree/main/2024)
+  - 📁 [MARÇO - MAIO](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/MAR%C3%87O%20-%20MAIO)
+    - 📁 [MARÇO](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/MAR%C3%87O%20-%20MAIO/MAR%C3%87O)
+      - 📁 [Avaliações](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/MAR%C3%87O%20-%20MAIO/MAR%C3%87O/Avalia%C3%A7%C3%B5es)
+        - 📁 [Sistema de Controle de estoque](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/MAR%C3%87O%20-%20MAIO/MAR%C3%87O/Avalia%C3%A7%C3%B5es/Sistema%20de%20Controle%20de%20estoque)
+      - 📁 [Estudo de caso](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/MAR%C3%87O%20-%20MAIO/MAR%C3%87O/Estudo%20de%20caso)
+      - 📁 [Slides](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/MAR%C3%87O%20-%20MAIO/MAR%C3%87O/Slides)
+
+## Projeto Integrador
+
+- 📁 [2024](https://github.com/buenosdev/Senac-Voucher/tree/main/2024)
+  - 📁 [Projeto Integrador](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/Projeto%20Integrador)
+    - 📁 [Protótipo](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/Projeto%20Integrador/Prot%C3%B3tipo)
+      - 📁 [Diagrama](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/Projeto%20Integrador/Prot%C3%B3tipo/Diagrama)
+      - 📁 [Fontes](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/Projeto%20Integrador/Prot%C3%B3tipo/Fontes)
+      - 📁 [Imagens](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/Projeto%20Integrador/Prot%C3%B3tipo/Imagens)
+    - 📄 [Backlog - 17.07.24](https://github.com/buenosdev/Senac-Voucher/blob/main/2024/Projeto%20Integrador/Prot%C3%B3tipo/Backlog%20-%2017.07.24)
+
+---
+
+
 
 
 
