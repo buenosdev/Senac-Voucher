@@ -83,7 +83,9 @@ This repository is dedicated to documenting my progress in the Developer Voucher
         - 📁 [Netflix](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/Ederson/190824%20-%20Outros%20dias%20antes/Netflix)
       - 📁 [Atividade 1](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/Ederson/210824)
       - 📁 [Atividade 2](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/Ederson/220824)
-      - 📁 [BD IBGE](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/Ederson/280824)
+      - 📁 [Banco de Dados](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/Ederson/280824/Banco%20de%20dados)
+        - 📁 [Treino de Select](https://github.com/buenosdev/Senac-Voucher/blob/main/2024/AGOSTO/Ederson/280824/Banco%20de%20dados/Treino_Select.sql)
+        - 📁 [Treino de Join](https://github.com/buenosdev/Senac-Voucher/blob/main/2024/AGOSTO/Ederson/280824/Banco%20de%20dados/Treino_Join.sql)
 
 ### Projetos usando Portugol
 
