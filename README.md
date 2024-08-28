@@ -11,7 +11,7 @@ Este repositório é dedicado a documentar meu progresso no curso de Voucher Des
 This repository is dedicated to documenting my progress in the Developer Voucher course offered by Senac Hub Academy, where we learned to apply and develop skills related to programming and software development. The repository is organized and updated daily, reflecting my development throughout the course. The organization structure follows the format: the first two digits represent the day, the next two the month, and the last two the year.
 
 > [!IMPORTANT]  
-> ## Instruções de caminhos/Path instructions:
+> # Instruções de caminhos/Path instructions:
 ```
 📁 2024
 ├── 📁 AGOSTO
@@ -54,8 +54,8 @@ This repository is dedicated to documenting my progress in the Developer Voucher
         - 📁 [Maio](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/MAR%C3%87O%20-%20MAIO/MAIO/Refor%C3%A7o/Maio)
           - 📁 [25.05](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/MAR%C3%87O%20-%20MAIO/MAIO/Refor%C3%A7o/Maio/25.05)
       - 📁 [Édini](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/MAR%C3%87O%20-%20MAIO/MAIO/%C3%89dini)
-        - 📁 [Avaliação 1](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/MAR%C3%87O%20-%20MAIO/MAIO/%C3%89dini/Avalia%C3%A7%C3%A3o%201)
-          - 📁 [Avaliação](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/MAR%C3%87O%20-%20MAIO/MAIO/%C3%89dini/Avalia%C3%A7%C3%A3o%201/Avalia%C3%A7%C3%A3o)
+        - 📁 [Avaliação/Enunciado](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/MAR%C3%87O%20-%20MAIO/MAIO/%C3%89dini/Avalia%C3%A7%C3%A3o%201)
+          - 📁 [Avaliação: Exercícios](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/MAR%C3%87O%20-%20MAIO/MAIO/%C3%89dini/Avalia%C3%A7%C3%A3o%201/Avalia%C3%A7%C3%A3o)
     - 📁 [JULHO](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/JULHO)
       - 📁 [Édini](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/JULHO/%C3%89dini)
         - 📁 [Exercicio](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/JULHO/%C3%89dini/Exercicio)
@@ -64,23 +64,23 @@ This repository is dedicated to documenting my progress in the Developer Voucher
           - 📁 [Desafios Python](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/JULHO/Enilda/Desafios%20pr%C3%A9%20maratona/Desafios%20Python)
     - 📁 [AGOSTO](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO)
       - 📁 [Édini](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/%C3%89dini)
-        - 📁 [080824](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/%C3%89dini/080824)
+        - 📁 [08.08](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/%C3%89dini/080824)
           - 📁 [Desafios_TDE](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/%C3%89dini/080824/Desafios_TDE)
-        - 📁 [150824](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/%C3%89dini/150824)
+        - 📁 [15.08](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/%C3%89dini/150824)
           - 📁 [teste](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/%C3%89dini/150824/teste)
-        - 📁 [220824](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/%C3%89dini/220824)
+        - 📁 [22.08](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/%C3%89dini/220824)
 
 ### Projetos usando banco de dados
 
 - 📁 [2024](https://github.com/buenosdev/Senac-Voucher/tree/main/2024)
   - 📁 [AGOSTO](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO)
     - 📁 [Ederson](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/Ederson)
-      - 📁 [190824 - Outros dias antes](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/Ederson/190824%20-%20Outros%20dias%20antes)
+      - 📁 [19.08 - E outros dias antes](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/Ederson/190824%20-%20Outros%20dias%20antes)
         - 📁 [Banco 2](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/Ederson/190824%20-%20Outros%20dias%20antes/Banco%202)
         - 📁 [Escola](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/Ederson/190824%20-%20Outros%20dias%20antes/Escola)
         - 📁 [Netflix](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/Ederson/190824%20-%20Outros%20dias%20antes/Netflix)
-      - 📁 [210824](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/Ederson/210824)
-      - 📁 [220824](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/Ederson/220824)
+      - 📁 [21.08](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/Ederson/210824)
+      - 📁 [22.08](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/Ederson/220824)
 
 ### Projetos usando Portugol
 
