@@ -131,5 +131,5 @@ This repository is dedicated to documenting my progress in the Developer Voucher
 
 
 <div align="center">  
-<img src="https://github.com/user-attachments/assets/1d3ff942-8acf-452e-ba90-fbe85e48c3c9" alt="Senac Hub">
+<img href= "https://ww3.ms.senac.br/Escolas/Campo-Grande/Hub-Academy" src="https://github.com/user-attachments/assets/1d3ff942-8acf-452e-ba90-fbe85e48c3c9" alt="Senac Hub">
 </div>
