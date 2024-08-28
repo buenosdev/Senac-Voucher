@@ -13,8 +13,8 @@ This repository is dedicated to documenting my progress in the Developer Voucher
 ## Instruções de caminhos/Path instructions:
 📁 2024
 ├── 📁 AGOSTO
-│   ├── 📁 Ederson 
-│   └── 📁 Édini 
+│   ├── 📁 Ederson
+│   └── 📁 Édini
 ├── 📁 JULHO
 │   ├── 📁 Enilda
 │   └── 📁 Édini
