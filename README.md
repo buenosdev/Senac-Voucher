@@ -126,7 +126,9 @@ This repository is dedicated to documenting my progress in the Developer Voucher
 
 ---
 
-
+## Em falta
+### Colocar projeto do figma do PI e Paralelos
+### Colocar Documento de requisitos do PI e Paralelos
 
 
 
