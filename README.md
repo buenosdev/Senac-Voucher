@@ -34,7 +34,6 @@ This repository is dedicated to documenting my progress in the Developer Voucher
     ├── 📁 Imagens
     └── 📄 Backlog - 17.07.24
 ```
-Claro! Para garantir que a estrutura de diretórios com links clicáveis fique bem formatada no GitHub e não use pontinhos, aqui está a estrutura organizada com emojis e links diretamente integrados. Use esta formatação no seu README ou em qualquer outro lugar do GitHub para tornar a navegação mais fácil.
 
 ---
 
