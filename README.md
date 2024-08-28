@@ -69,6 +69,8 @@ This repository is dedicated to documenting my progress in the Developer Voucher
         - 📁 [15.08](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/%C3%89dini/150824)
           - 📁 [teste](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/%C3%89dini/150824/teste)
         - 📁 [22.08](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/%C3%89dini/220824)
+        - 📁 [27.08](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/%C3%89dini/270824)
+          - 📁 [Estoque.db(Avaliação)](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/%C3%89dini/270824)
 
 ### Projetos usando banco de dados
 
@@ -79,8 +81,9 @@ This repository is dedicated to documenting my progress in the Developer Voucher
         - 📁 [Banco 2](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/Ederson/190824%20-%20Outros%20dias%20antes/Banco%202)
         - 📁 [Escola](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/Ederson/190824%20-%20Outros%20dias%20antes/Escola)
         - 📁 [Netflix](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/Ederson/190824%20-%20Outros%20dias%20antes/Netflix)
-      - 📁 [21.08](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/Ederson/210824)
-      - 📁 [22.08](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/Ederson/220824)
+      - 📁 [Atividade 1](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/Ederson/210824)
+      - 📁 [Atividade 2](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/Ederson/220824)
+      - 📁 [BD IBGE](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/AGOSTO/Ederson/280824)
 
 ### Projetos usando Portugol
 
