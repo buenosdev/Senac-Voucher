@@ -1,0 +1,15 @@
+Quantas cidades tem cadastradas no banco? 
+Quantos Clientes tem cadastrado no banco? 
+Quantos produtos tem no banco? 
+Quantos setores tem no banco? 
+Quantos pedidos tem no banco? 
+Qual o maior salário dos vendedores? 
+Quem possui o maior salário? 
+Qual o menor salário dos vendedores? 
+Quem possui o menor salário? 
+Qual pedido teve a maior venda em quantidade? 
+Qual pedido teve a menor venda em quantidade? 
+Qual o produto mais barato? 
+Qual o produto mais caro? 
+Quantos vendedores existem no setor de ferramentas? 
+Quantos pedidos o cliente Estevan Pereira Cardoso fez? 
