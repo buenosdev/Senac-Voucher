@@ -87,7 +87,8 @@ This repository is dedicated to documenting my progress in the Developer Voucher
         - 📁 [Treino de Select](https://github.com/buenosdev/Senac-Voucher/blob/main/2024/AGOSTO/Ederson/280824/Banco%20de%20dados/Treino_Select.sql)
         - 📁 [Treino de Join 1](https://github.com/buenosdev/Senac-Voucher/blob/main/2024/AGOSTO/Ederson/280824/Banco%20de%20dados/Treino_Join.sql)
         - 📁 [Treino de Join 2](https://github.com/buenosdev/Senac-Voucher/blob/main/2024/AGOSTO/Ederson/300824/Join.sql)
-        - 📁 [Treino de Join 3](https://github.com/buenosdev/Senac-Voucher/tree/main/2024/SETEMBRO/020924)
+        - 📁 [Treino de Join 3](https://github.com/buenosdev/Senac-Voucher/blob/main/2024/SETEMBRO/Ederson/020924/Atividade%203.sql)
+        - 📁 [Treino de Join 4](https://github.com/buenosdev/Senac-Voucher/blob/main/2024/SETEMBRO/Ederson/020924/Atividade%204.sql)
 
 ### Projetos usando Portugol
 
