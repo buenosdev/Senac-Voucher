@@ -1,0 +1,21 @@
+Instruções
+1. No MySQL Workbench, crie o banco de dados ‘sprint’:
+Escreva e execute os comandos para:
+• Criar a tabela chamada Atleta para conter os dados: idAtleta (int e chave primária da
+tabela), nome (varchar, tamanho 40), modalidade (varchar, tamanho 40), qtdMedalha
+(int, representando a quantidade de medalhas que o atleta possui)
+• Inserir dados na tabela, procurando colocar mais de um atleta para cada modalidade
+e pelo menos 5 atletas.
+Escreva e execute os comandos para:
+• Exibir todos os dados da tabela.
+• Atualizar a quantidade de medalhas do atleta com id=1;
+• Atualizar a quantidade de medalhas do atleta com id=2 e com o id=3;
+• Atualizar o nome do atleta com o id=4;
+• Adicionar o campo dtNasc na tabela, com a data de nascimento dos atletas, tipo date;
+• Atualizar a data de nascimento de todos os atletas;
+• Excluir o atleta com o id=5;
+• Exibir os atletas onde a modalidade é diferente de natação;
+• Exibir os dados dos atletas que tem a quantidade de medalhas maior ou igual a 3;
+• Modificar o campo modalidade do tamanho 40 para o tamanho 60;
+• Descrever os campos da tabela mostrando a atualização do campo modalidade;
+• Limpar os dados da tabela;
