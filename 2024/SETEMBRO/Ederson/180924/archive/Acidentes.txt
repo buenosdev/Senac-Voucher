@@ -1,3 +1,5 @@
+https://www.kaggle.com/datasets/tkunzler/acidentes-de-trnsito-porto-alegre-2018-2022/code?datasetId=2883761
+
 create database cat_acidentes;
 use cat_acidentes;
 
