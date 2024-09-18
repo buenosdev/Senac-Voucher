@@ -1,0 +1,18 @@
+erros de código - nota_fiscal
+
+1- enumerate em frete na nota_fiscal - pode dificultar
+se houver mudança de dados.
+
+2- prazo de entrega dias em int - poderia colocar date
+para que fique a data e o dia assim ficilitando a visão -erro pedido em dias-
+
+erros de código - tela_cadastro
+1- enumarate no frete mesmo que o acima.
+
+2-  cpf or cnpj não sendo único
+
+3- rg não sendo único. - repete entre estados
+
+erros de código - ordem_serviço
+1 - emissão, serviço e quantidade deveriam ser NOT NULL
+mas estão em default null
