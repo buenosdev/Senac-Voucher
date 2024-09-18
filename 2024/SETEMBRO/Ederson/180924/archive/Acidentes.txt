@@ -1,0 +1,41 @@
+create database cat_acidentes;
+use cat_acidentes;
+
+CREATE TABLE acidentes (
+    data_extracao DATE,
+    predial1 BOOLEAN,
+    queda_arr BOOLEAN,
+    data DATE,
+    feridos int,
+    feridos_gr INT,
+    mortes INT,
+    morte_post INT,
+    fatais INT,
+    auto BOOLEAN,
+    taxi BOOLEAN,
+    lotacao BOOLEAN,
+    onibus_urb BOOLEAN,
+    onibus_met BOOLEAN,
+    onibus_int BOOLEAN,
+    caminhao BOOLEAN,
+    moto BOOLEAN,
+    carroca BOOLEAN,
+    bicicleta BOOLEAN,
+    outro BOOLEAN,
+    cont_vit INT,
+    ups BOOLEAN,
+    patinete BOOLEAN,
+    idacidente INT PRIMARY KEY,
+    longitude DECIMAL(10, 8),
+    latitude DECIMAL(10, 8),
+    log1 VARCHAR(255),
+    log2 VARCHAR(255),
+    tipo_acid VARCHAR(100),
+    dia_sem VARCHAR(15),
+    hora TIME,
+    noite_dia VARCHAR(10),
+    regiao VARCHAR(100),
+    consorcio VARCHAR(100)
+);
+
+

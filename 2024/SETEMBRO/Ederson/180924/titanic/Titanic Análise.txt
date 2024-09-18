@@ -1,0 +1,38 @@
+create database titanic_base;
+use titanic_base;
+
+create table titanic_table(
+Passengerld int primary key,
+Survived int,
+Pclass int,
+Nome varchar (150),
+Sex varchar (20),
+Age varchar (20),
+SibSp int,
+Parch int,
+Ticket varchar (30),
+Fare int,
+Cabin varchar (20),
+Embarked varchar (10)
+);
+
+select * from  titanic_table;
+
+select count(*) from  titanic_table;
+
+-- Quantas pessoas sobreviveram
+
+select count(nome) from titanic_table where Survived=1;
+
+-- Quantas crianças sobreviveram?
+
+select count(*) nome from titanic_table where age <12 and Survived=1;
+
+-- Quantas mulheres sobreviveram?
+
+select count(*) nome from titanic_table where sex = 'female' and Survived=1;
+
+-- Quantos homens sobreviveram?
+
+select count(*) nome from titanic_table where sex = 'male' and Survived=1;
+
