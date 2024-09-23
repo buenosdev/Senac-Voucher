@@ -1,43 +1,77 @@
 https://www.kaggle.com/datasets/tkunzler/acidentes-de-trnsito-porto-alegre-2018-2022/code?datasetId=2883761
 
 create database cat_acidentes;
+
 use cat_acidentes;
 
-CREATE TABLE acidentes (
-    data_extracao DATE,
-    predial1 BOOLEAN,
-    queda_arr BOOLEAN,
-    data DATE,
+create table acidentes (
+    data_extracao date,
+    predial1 boolean,
+    queda_arr boolean,
+    data date,
     feridos int,
-    feridos_gr INT,
-    mortes INT,
-    morte_post INT,
-    fatais INT,
-    auto BOOLEAN,
-    taxi BOOLEAN,
-    lotacao BOOLEAN,
-    onibus_urb BOOLEAN,
-    onibus_met BOOLEAN,
-    onibus_int BOOLEAN,
-    caminhao BOOLEAN,
-    moto BOOLEAN,
-    carroca BOOLEAN,
-    bicicleta BOOLEAN,
-    outro BOOLEAN,
-    cont_vit INT,
-    ups BOOLEAN,
-    patinete BOOLEAN,
-    idacidente INT PRIMARY KEY,
-    longitude DECIMAL(10, 8),
-    latitude DECIMAL(10, 8),
-    log1 VARCHAR(255),
-    log2 VARCHAR(255),
-    tipo_acid VARCHAR(100),
-    dia_sem VARCHAR(15),
-    hora TIME,
-    noite_dia VARCHAR(10),
-    regiao VARCHAR(100),
-    consorcio VARCHAR(100)
+    feridos_gr int,
+    mortes int,
+    morte_post int,
+    fatais int,
+    auto boolean,
+    taxi boolean,
+    lotacao boolean,
+    onibus_urb boolean,
+    onibus_met boolean,
+    onibus_int boolean,
+    caminhao boolean,
+    moto boolean,
+    carroca boolean,
+    bicicleta boolean,
+    outro boolean,
+    cont_vit int,
+    ups boolean,
+    patinete boolean,
+    idacidente int primary key,
+    longitude decimal(10, 8),
+    latitude decimal(10, 8),
+    log1 varchar(255),
+    log2 varchar(255),
+    tipo_acid varchar(100),
+    dia_sem varchar(15),
+    hora time,
+    noite_dia varchar(10),
+    regiao varchar(100),
+    consorcio varchar(100)
 );
 
+-- seleciona todos os registros da tabela acidentes
+select * from acidentes;
 
+-- seleciona todos os acidentes que tiveram mortes fatais
+select * from acidentes
+where fatais > 0;
+
+-- seleciona todos os acidentes que ocorreram na segunda-feira
+select * from acidentes
+where dia_sem = 'SEGUNDA-FEIRA';
+
+-- seleciona acidentes com mais de 3 feridos graves
+select * from acidentes
+where feridos_gr > 3;
+
+-- seleciona acidentes que envolveram ônibus urbano
+select * from acidentes
+where onibus_urb = true;
+
+-- seleciona acidentes que ocorreram na região 'SUL'
+select * from acidentes
+where regiao = 'SUL';
+
+-- seleciona acidentes que ocorreram durante a noite
+select * from acidentes
+where noite_dia = 'NOITE';
+
+-- seleciona acidentes ocorridos entre 18:00 e 20:00
+select * from acidentes
+where hora between '18:00' and '20:00';
+
+-- seleciona acidentes que envolveram tanto bicicleta quanto patinete
+select * from acidentes
+where bicicleta = true and patinete = true;
