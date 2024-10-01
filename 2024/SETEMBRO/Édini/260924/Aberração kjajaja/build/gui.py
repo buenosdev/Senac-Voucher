@@ -138,17 +138,15 @@ entry_bg_1 = canvas.create_image(
     380.33509254455566,
     image=entry_image_1
 )
-entry_1 = Entry(
+text_1 = Text(
     bd=0,
     bg="#4978B0",
     fg="#000716",
-    highlightthickness=0
+    highlightthickness=0,
 )
-entry_1.place(
-    x=384.18206787109375,
-    y=353.0,
-    width=687.2822875976562,
-    height=52.67018508911133
-)
+
+
+
+
 window.resizable(False, False)
 window.mainloop()

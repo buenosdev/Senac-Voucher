@@ -1,0 +1,45 @@
+19-
+Tabela perfil
+
+id_cliente_perfil - integer, foreign key (chave estrangeira do id_cliente)
+ID do cliente para aplicar a configuração, chave estrangeira do cliente (id_cliente) 
+
+foto_perfil - varchar - 200
+O Endereço da foto de perfil do cliente/vendedor, possuindo um default caso o cliente/vendedor não possua foto. NÃO NULO. 
+
+banner_perfil - varchar - 200
+O Endereço da foto de banner do cliente/vendedor, possuindo um default caso o cliente/vendedor não possua banner. NÃO NULO 
+
+descricao_perfil - varchar - 500
+Exclusivo ao usuário do tipo Vendedor, possuí uma descrição breve sobre seu negócio. 
+ 
+tiktok_perfil - varchar - 50
+linkedin_perfil - varchar - 50
+facebook_perfil - varchar - 50
+youtube_perfil - varchar - 50
+instagram_perfil - varchar - 50
+
+
+21-
+id_cidade - integer,auto_increment
+ID da Cidade, CHAVE PRIMARIA 
+
+nome_cidade - varchar- 50
+O nome da cidade, NÂO NULO 
+
+
+id_estado - tinyint 
+O ID do estado no qual a cidade pertence, NÂO NULO, Chave estrangeira (id_estado) para a tabela estado 
+
+
+
+
+23-
+
+
+index_anuncio - Integer, unique primary key 
+Index do anuncio, funcionando como ID, define a posição dele no site., CHAVE PRIMARIA 
+
+endereco_imagem_anuncio - varchar -  200
+Endereço da imagem, NÂO NULO 
+

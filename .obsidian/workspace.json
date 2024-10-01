@@ -11,20 +11,11 @@
             "id": "e390caae1bb762b3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "83a878f7d1ad3b61",
-            "type": "leaf",
-            "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,11 +140,17 @@
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "card-board:CardBoard": false
     }
   },
   "active": "e54f7bc8b701207b",
   "lastOpenFiles": [
+    "2024/SETEMBRO/Ederson/300924/Tabelas de hoje (Falta correção).txt",
+    "2024/SETEMBRO/Ederson/300924/Tabelas de hoje.txt",
+    "2024/SETEMBRO/Ederson/300924",
+    "2024/SETEMBRO/Ederson/Nova pasta",
+    "2024/SETEMBRO/Édini/260924/Tkinter-Designer/CODE_OF_CONDUCT.md",
     "Sem título.md",
     "2024/AGOSTO/João/050824/Catálogo de cursos/20120709182538664360a.pdf",
     "2024/ARQUIVOS/Imagens/Logos/Fike/polygonal-luxury-dark-background/2880456.jpg",
@@ -163,9 +160,6 @@
     "Pessoal/Math Game/Math-Game V1/Math-Game-main/dificuldade/modo_facil/modo_sp- Adição/script/multiplayer/multiplayer.js",
     "Pessoal/Math Game/Math-Game V1/Math-Game-main/dificuldade/modo_facil/modo_sp- Subtração/sons/hover.mp3",
     "Pessoal/Math Game/Math-Game V1/Math-Game-main/dificuldade/modo_facil/modo_sp- Subtração/sons/error (3).mp3",
-    "Pessoal/Math Game/Math-Game V1/Math-Game-main/dificuldade/modo_facil/modo_sp- Subtração/sons/timer.mp3",
-    "Pessoal/Math Game/Math-Game/dificuldade/modo_facil/modo_sp- Adição/script/multiplayer/server.js",
-    "Pessoal/Math Game/Math-Game/dificuldade/modo_facil/modo_sp- Adição/script/multiplayer/multiplayer.js",
     "Pessoal/Math Game/Math-Game V1/Math-Game-main/dificuldade/modo_facil/modo_sp- Subtração/logo.png",
     "Pessoal/Math Game/Math-Game V1/Math-Game-main/dificuldade/modo_facil/modo_sp- Multiplicação/logo.png",
     "Pessoal/Math Game/Math-Game V1/Math-Game-main/dificuldade/modo_facil/modo_sp- Divisão/logo.png",
@@ -197,8 +191,6 @@
     "Computação gráfica/2024/JUNHO/Munique/Link das aulas.md",
     "ORGANIZAÇÃO DE PASTAS.md",
     "Computação gráfica/2024/JUNHO/CG - Munique_25.06.24.md",
-    "Computação gráfica/2024/JUNHO/Resumo das aulas de Junho.md",
-    "Computação gráfica/Link das aulas.md",
-    "Computação gráfica/JUNHO/Resumo das aulas de Junho.md"
+    "Computação gráfica/2024/JUNHO/Resumo das aulas de Junho.md"
   ]
 }
