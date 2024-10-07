@@ -30,7 +30,7 @@ import matplotlib.pyplot as plt
 # plt.show()
 
 
-## TITULO DO GRÁFICO
+# TITULO DO GRÁFICO
 
 x = (1,2,3,4,5)
 y = (1,2,3,4,5)
@@ -39,7 +39,8 @@ plt.xlabel('Eixo Y')
 
 plt.title('Meu Gráfico')
 
-plt.plot(x,y, "c--o")
+plt.plot((1,2,3,4), (1,4,9,16), "mD:")
+# plt.axis((0,6,50,1))
 
 plt.ylabel(u'Alguns Números y')
 
@@ -66,3 +67,4 @@ plt.show()
 # Linha tracejada - '--'
 # Linha traço-ponto - '-.'
 # Linha pontilhada - ':'
+
