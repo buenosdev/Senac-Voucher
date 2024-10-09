@@ -1,0 +1,947 @@
+﻿year;state;month;number;date
+2015;Acre;Janeiro;1.0;2015-01-01
+2016;Acre;Janeiro;12.0;2016-01-01
+2017;Acre;Janeiro;0.0;2017-01-01
+2015;Acre;Fevereiro;2.0;2015-01-01
+2016;Acre;Fevereiro;5.0;2016-01-01
+2017;Acre;Fevereiro;1.0;2017-01-01
+2015;Acre;Março;2.0;2015-01-01
+2016;Acre;Março;0.0;2016-01-01
+2017;Acre;Março;0.0;2017-01-01
+2015;Acre;Abril;3.0;2015-01-01
+2016;Acre;Abril;0.0;2016-01-01
+2017;Acre;Abril;1.0;2017-01-01
+2015;Acre;Maio;2.0;2015-01-01
+2016;Acre;Maio;21.0;2016-01-01
+2017;Acre;Maio;10.0;2017-01-01
+2015;Acre;Junho;40.0;2015-01-01
+2016;Acre;Junho;87.0;2016-01-01
+2017;Acre;Junho;45.0;2017-01-01
+2015;Acre;Julho;109.0;2015-01-01
+2016;Acre;Julho;533.0;2016-01-01
+2017;Acre;Julho;457.0;2017-01-01
+2015;Acre;Agosto;1.397;2015-01-01
+2016;Acre;Agosto;2.188;2016-01-01
+2017;Acre;Agosto;1.493;2017-01-01
+2015;Acre;Setembro;2.928;2015-01-01
+2016;Acre;Setembro;3.586;2016-01-01
+2017;Acre;Setembro;3.429;2017-01-01
+2015;Acre;Outubro;905.0;2015-01-01
+2016;Acre;Outubro;509.0;2016-01-01
+2017;Acre;Outubro;1.508;2017-01-01
+2015;Acre;Novembro;115.0;2015-01-01
+2016;Acre;Novembro;46.0;2016-01-01
+2017;Acre;Novembro;98.0;2017-01-01
+2015;Acre;Dezembro;8.0;2015-01-01
+2016;Acre;Dezembro;6.0;2016-01-01
+2015;Alagoas;Janeiro;81.0;2015-01-01
+2016;Alagoas;Janeiro;24.0;2016-01-01
+2017;Alagoas;Janeiro;38.0;2017-01-01
+2017;Alagoas;Janeiro;38.0;2017-01-01
+2015;Alagoas;Fevereiro;46.0;2015-01-01
+2016;Alagoas;Fevereiro;14.0;2016-01-01
+2017;Alagoas;Fevereiro;21.0;2017-01-01
+2015;Alagoas;Março;32.0;2015-01-01
+2016;Alagoas;Março;9.0;2016-01-01
+2017;Alagoas;Março;23.0;2017-01-01
+2015;Alagoas;Abril;63.0;2015-01-01
+2016;Alagoas;Abril;13.0;2016-01-01
+2017;Alagoas;Abril;7.0;2017-01-01
+2015;Alagoas;Maio;18.0;2015-01-01
+2016;Alagoas;Maio;4.0;2016-01-01
+2017;Alagoas;Maio;1.0;2017-01-01
+2015;Alagoas;Junho;2.0;2015-01-01
+2016;Alagoas;Junho;5.0;2016-01-01
+2017;Alagoas;Junho;2.0;2017-01-01
+2015;Alagoas;Julho;0.0;2015-01-01
+2016;Alagoas;Julho;3.0;2016-01-01
+2017;Alagoas;Julho;0.0;2017-01-01
+2015;Alagoas;Agosto;3.0;2015-01-01
+2016;Alagoas;Agosto;5.0;2016-01-01
+2017;Alagoas;Agosto;1.0;2017-01-01
+2015;Alagoas;Setembro;7.0;2015-01-01
+2016;Alagoas;Setembro;18.0;2016-01-01
+2017;Alagoas;Setembro;4.0;2017-01-01
+2015;Alagoas;Outubro;40.0;2015-01-01
+2016;Alagoas;Outubro;74.0;2016-01-01
+2017;Alagoas;Outubro;14.0;2017-01-01
+2015;Alagoas;Novembro;162.0;2015-01-01
+2016;Alagoas;Novembro;76.0;2016-01-01
+2017;Alagoas;Novembro;10.0;2017-01-01
+2015;Alagoas;Dezembro;136.0;2015-01-01
+2016;Alagoas;Dezembro;155.0;2016-01-01
+2015;Amapa;Janeiro;14.0;2015-01-01
+2016;Amapa;Janeiro;19.0;2016-01-01
+2017;Amapa;Janeiro;2.0;2017-01-01
+2015;Amapa;Fevereiro;1.0;2015-01-01
+2016;Amapa;Fevereiro;1.0;2016-01-01
+2017;Amapa;Fevereiro;0.0;2017-01-01
+2015;Amapa;Março;2.0;2015-01-01
+2016;Amapa;Março;5.0;2016-01-01
+2017;Amapa;Março;0.0;2017-01-01
+2015;Amapa;Abril;0.0;2015-01-01
+2016;Amapa;Abril;0.0;2016-01-01
+2017;Amapa;Abril;3.0;2017-01-01
+2015;Amapa;Maio;0.0;2015-01-01
+2016;Amapa;Maio;1.0;2016-01-01
+2017;Amapa;Maio;1.0;2017-01-01
+2015;Amapa;Junho;3.0;2015-01-01
+2016;Amapa;Junho;2.0;2016-01-01
+2017;Amapa;Junho;2.0;2017-01-01
+2015;Amapa;Julho;5.0;2015-01-01
+2016;Amapa;Julho;1.0;2016-01-01
+2017;Amapa;Julho;3.0;2017-01-01
+2015;Amapa;Agosto;40.0;2015-01-01
+2016;Amapa;Agosto;37.0;2016-01-01
+2017;Amapa;Agosto;33.0;2017-01-01
+2015;Amapa;Setembro;192.0;2015-01-01
+2016;Amapa;Setembro;142.0;2016-01-01
+2017;Amapa;Setembro;95.0;2017-01-01
+2015;Amapa;Outubro;827.0;2015-01-01
+2016;Amapa;Outubro;793.0;2016-01-01
+2017;Amapa;Outubro;468.0;2017-01-01
+2015;Amapa;Novembro;1.3;2015-01-01
+2016;Amapa;Novembro;1.161;2016-01-01
+2017;Amapa;Novembro;858.0;2017-01-01
+2015;Amapa;Dezembro;269.0;2015-01-01
+2016;Amapa;Dezembro;491.0;2016-01-01
+2015;Amazonas;Janeiro;35.0;2015-01-01
+2016;Amazonas;Janeiro;770.0;2016-01-01
+2017;Amazonas;Janeiro;65.0;2017-01-01
+2015;Amazonas;Fevereiro;107.0;2015-01-01
+2016;Amazonas;Fevereiro;275.0;2016-01-01
+2017;Amazonas;Fevereiro;52.0;2017-01-01
+2015;Amazonas;Março;46.0;2015-01-01
+2016;Amazonas;Março;140.0;2016-01-01
+2017;Amazonas;Março;45.0;2017-01-01
+2015;Amazonas;Abril;24.0;2015-01-01
+2016;Amazonas;Abril;22.0;2016-01-01
+2017;Amazonas;Abril;20.0;2017-01-01
+2015;Amazonas;Maio;10.0;2015-01-01
+2016;Amazonas;Maio;30.0;2016-01-01
+2017;Amazonas;Maio;40.0;2017-01-01
+2015;Amazonas;Junho;33.0;2015-01-01
+2016;Amazonas;Junho;90.0;2016-01-01
+2017;Amazonas;Junho;119.0;2017-01-01
+2015;Amazonas;Julho;356.0;2015-01-01
+2016;Amazonas;Julho;1.137;2016-01-01
+2017;Amazonas;Julho;1.975;2017-01-01
+2015;Amazonas;Agosto;4.564;2015-01-01
+2016;Amazonas;Agosto;3.611;2016-01-01
+2017;Amazonas;Agosto;6.316;2017-01-01
+2015;Amazonas;Setembro;5.882;2015-01-01
+2016;Amazonas;Setembro;3.119;2016-01-01
+2017;Amazonas;Setembro;4.033;2017-01-01
+2015;Amazonas;Outubro;2.494;2015-01-01
+2016;Amazonas;Outubro;2.105;2016-01-01
+2017;Amazonas;Outubro;1.581;2017-01-01
+2015;Amazonas;Novembro;1.054;2015-01-01
+2016;Amazonas;Novembro;591.0;2016-01-01
+2017;Amazonas;Novembro;552.0;2017-01-01
+2015;Amazonas;Dezembro;565.0;2015-01-01
+2016;Amazonas;Dezembro;133.0;2016-01-01
+2015;Bahia;Janeiro;256.0;2015-01-01
+2016;Bahia;Janeiro;285.0;2016-01-01
+2017;Bahia;Janeiro;154.0;2017-01-01
+2015;Bahia;Fevereiro;143.0;2015-01-01
+2016;Bahia;Fevereiro;418.0;2016-01-01
+2017;Bahia;Fevereiro;100.0;2017-01-01
+2015;Bahia;Março;229.0;2015-01-01
+2016;Bahia;Março;281.0;2016-01-01
+2017;Bahia;Março;163.0;2017-01-01
+2015;Bahia;Abril;190.0;2015-01-01
+2016;Bahia;Abril;217.0;2016-01-01
+2017;Bahia;Abril;94.0;2017-01-01
+2015;Bahia;Maio;144.0;2015-01-01
+2016;Bahia;Maio;259.0;2016-01-01
+2017;Bahia;Maio;121.0;2017-01-01
+2015;Bahia;Junho;242.0;2015-01-01
+2016;Bahia;Junho;416.0;2016-01-01
+2017;Bahia;Junho;329.0;2017-01-01
+2015;Bahia;Julho;306.0;2015-01-01
+2016;Bahia;Julho;345.0;2016-01-01
+2017;Bahia;Julho;300.0;2017-01-01
+2015;Bahia;Agosto;829.0;2015-01-01
+2016;Bahia;Agosto;724.0;2016-01-01
+2017;Bahia;Agosto;1.018;2017-01-01
+2015;Bahia;Setembro;7.956;2015-01-01
+2016;Bahia;Setembro;1.819;2016-01-01
+2017;Bahia;Setembro;1.791;2017-01-01
+2015;Bahia;Outubro;4.989;2015-01-01
+2016;Bahia;Outubro;1.415;2016-01-01
+2017;Bahia;Outubro;4.005;2017-01-01
+2015;Bahia;Novembro;1.705;2015-01-01
+2016;Bahia;Novembro;408.0;2016-01-01
+2017;Bahia;Novembro;174.0;2017-01-01
+2015;Bahia;Dezembro;1.408;2015-01-01
+2016;Bahia;Dezembro;164.0;2016-01-01
+2015;Ceara;Janeiro;207.0;2015-01-01
+2016;Ceara;Janeiro;100.0;2016-01-01
+2017;Ceara;Janeiro;91.0;2017-01-01
+2015;Ceara;Fevereiro;25.0;2015-01-01
+2016;Ceara;Fevereiro;13.0;2016-01-01
+2017;Ceara;Fevereiro;9.0;2017-01-01
+2015;Ceara;Março;20.0;2015-01-01
+2016;Ceara;Março;4.0;2016-01-01
+2017;Ceara;Março;4.0;2017-01-01
+2015;Ceara;Abril;3.0;2015-01-01
+2016;Ceara;Abril;10.0;2016-01-01
+2017;Ceara;Abril;6.0;2017-01-01
+2015;Ceara;Maio;17.0;2015-01-01
+2016;Ceara;Maio;8.0;2016-01-01
+2017;Ceara;Maio;9.0;2017-01-01
+2015;Ceara;Junho;22.0;2015-01-01
+2016;Ceara;Junho;45.0;2016-01-01
+2017;Ceara;Junho;23.0;2017-01-01
+2015;Ceara;Julho;25.0;2015-01-01
+2016;Ceara;Julho;124.0;2016-01-01
+2017;Ceara;Julho;26.0;2017-01-01
+2015;Ceara;Agosto;127.0;2015-01-01
+2016;Ceara;Agosto;293.0;2016-01-01
+2017;Ceara;Agosto;121.0;2017-01-01
+2015;Ceara;Setembro;214.0;2015-01-01
+2016;Ceara;Setembro;370.0;2016-01-01
+2017;Ceara;Setembro;505.0;2017-01-01
+2015;Ceara;Outubro;658.0;2015-01-01
+2016;Ceara;Outubro;1.31;2016-01-01
+2017;Ceara;Outubro;949.0;2017-01-01
+2015;Ceara;Novembro;1.081;2015-01-01
+2016;Ceara;Novembro;1.328;2016-01-01
+2017;Ceara;Novembro;812.0;2017-01-01
+2015;Ceara;Dezembro;1.021;2015-01-01
+2016;Ceara;Dezembro;819.0;2016-01-01
+2015;Distrito Federal;Janeiro;1.0;2015-01-01
+2016;Distrito Federal;Janeiro;1.0;2016-01-01
+2017;Distrito Federal;Janeiro;1.0;2017-01-01
+2015;Distrito Federal;Fevereiro;0.0;2015-01-01
+2016;Distrito Federal;Fevereiro;2.0;2016-01-01
+2017;Distrito Federal;Fevereiro;0.0;2017-01-01
+2015;Distrito Federal;Março;0.0;2015-01-01
+2016;Distrito Federal;Março;1.0;2016-01-01
+2017;Distrito Federal;Março;0.0;2017-01-01
+2015;Distrito Federal;Abril;0.0;2015-01-01
+2016;Distrito Federal;Abril;5.0;2016-01-01
+2017;Distrito Federal;Abril;1.0;2017-01-01
+2015;Distrito Federal;Maio;2.0;2015-01-01
+2016;Distrito Federal;Maio;15.0;2016-01-01
+2017;Distrito Federal;Maio;6.0;2017-01-01
+2015;Distrito Federal;Junho;1.0;2015-01-01
+2016;Distrito Federal;Junho;42.0;2016-01-01
+2017;Distrito Federal;Junho;23.0;2017-01-01
+2015;Distrito Federal;Julho;15.0;2015-01-01
+2016;Distrito Federal;Julho;79.0;2016-01-01
+2017;Distrito Federal;Julho;44.0;2017-01-01
+2015;Distrito Federal;Agosto;53.0;2015-01-01
+2016;Distrito Federal;Agosto;29.0;2016-01-01
+2017;Distrito Federal;Agosto;147.0;2017-01-01
+2015;Distrito Federal;Setembro;76.0;2015-01-01
+2016;Distrito Federal;Setembro;58.0;2016-01-01
+2017;Distrito Federal;Setembro;122.0;2017-01-01
+2015;Distrito Federal;Outubro;21.0;2015-01-01
+2016;Distrito Federal;Outubro;9.0;2016-01-01
+2017;Distrito Federal;Outubro;66.0;2017-01-01
+2015;Distrito Federal;Novembro;3.0;2015-01-01
+2016;Distrito Federal;Novembro;1.0;2016-01-01
+2017;Distrito Federal;Novembro;0.0;2017-01-01
+2015;Distrito Federal;Dezembro;0.0;2015-01-01
+2016;Distrito Federal;Dezembro;0.0;2016-01-01
+2015;Espirito Santo;Janeiro;76.0;2015-01-01
+2016;Espirito Santo;Janeiro;43.0;2016-01-01
+2017;Espirito Santo;Janeiro;13.0;2017-01-01
+2015;Espirito Santo;Fevereiro;60.0;2015-01-01
+2016;Espirito Santo;Fevereiro;24.0;2016-01-01
+2017;Espirito Santo;Fevereiro;8.0;2017-01-01
+2015;Espirito Santo;Março;25.0;2015-01-01
+2016;Espirito Santo;Março;107.0;2016-01-01
+2017;Espirito Santo;Março;9.0;2017-01-01
+2015;Espirito Santo;Abril;33.0;2015-01-01
+2016;Espirito Santo;Abril;57.0;2016-01-01
+2017;Espirito Santo;Abril;7.0;2017-01-01
+2015;Espirito Santo;Maio;17.0;2015-01-01
+2016;Espirito Santo;Maio;48.0;2016-01-01
+2017;Espirito Santo;Maio;10.0;2017-01-01
+2015;Espirito Santo;Junho;18.0;2015-01-01
+2016;Espirito Santo;Junho;49.0;2016-01-01
+2017;Espirito Santo;Junho;37.0;2017-01-01
+2015;Espirito Santo;Julho;30.0;2015-01-01
+2016;Espirito Santo;Julho;42.0;2016-01-01
+2017;Espirito Santo;Julho;3.0;2017-01-01
+2015;Espirito Santo;Agosto;35.0;2015-01-01
+2016;Espirito Santo;Agosto;78.0;2016-01-01
+2017;Espirito Santo;Agosto;30.0;2017-01-01
+2015;Espirito Santo;Setembro;228.0;2015-01-01
+2016;Espirito Santo;Setembro;128.0;2016-01-01
+2017;Espirito Santo;Setembro;58.0;2017-01-01
+2015;Espirito Santo;Outubro;307.0;2015-01-01
+2016;Espirito Santo;Outubro;58.0;2016-01-01
+2017;Espirito Santo;Outubro;56.0;2017-01-01
+2015;Espirito Santo;Novembro;141.0;2015-01-01
+2016;Espirito Santo;Novembro;8.0;2016-01-01
+2017;Espirito Santo;Novembro;3.0;2017-01-01
+2015;Espirito Santo;Dezembro;61.0;2015-01-01
+2016;Espirito Santo;Dezembro;12.0;2016-01-01
+2015;Goias;Janeiro;118.0;2015-01-01
+2016;Goias;Janeiro;52.0;2016-01-01
+2017;Goias;Janeiro;53.0;2017-01-01
+2015;Goias;Fevereiro;53.0;2015-01-01
+2016;Goias;Fevereiro;117.0;2016-01-01
+2017;Goias;Fevereiro;75.0;2017-01-01
+2015;Goias;Março;76.0;2015-01-01
+2016;Goias;Março;136.0;2016-01-01
+2017;Goias;Março;115.0;2017-01-01
+2015;Goias;Abril;89.0;2015-01-01
+2016;Goias;Abril;167.0;2016-01-01
+2017;Goias;Abril;60.0;2017-01-01
+2015;Goias;Maio;129.0;2015-01-01
+2016;Goias;Maio;233.0;2016-01-01
+2017;Goias;Maio;135.0;2017-01-01
+2015;Goias;Junho;277.0;2015-01-01
+2016;Goias;Junho;289.0;2016-01-01
+2017;Goias;Junho;442.0;2017-01-01
+2015;Goias;Julho;347.0;2015-01-01
+2016;Goias;Julho;837.0;2016-01-01
+2017;Goias;Julho;577.0;2017-01-01
+2015;Goias;Agosto;943.0;2015-01-01
+2016;Goias;Agosto;1.032;2016-01-01
+2017;Goias;Agosto;1.492;2017-01-01
+2015;Goias;Setembro;2.296;2015-01-01
+2016;Goias;Setembro;1.703;2016-01-01
+2017;Goias;Setembro;3.238;2017-01-01
+2015;Goias;Outubro;1.807;2015-01-01
+2016;Goias;Outubro;522.0;2016-01-01
+2017;Goias;Outubro;2.401;2017-01-01
+2015;Goias;Novembro;547.0;2015-01-01
+2016;Goias;Novembro;123.0;2016-01-01
+2017;Goias;Novembro;117.0;2017-01-01
+2015;Goias;Dezembro;179.0;2015-01-01
+2016;Goias;Dezembro;64.0;2016-01-01
+2015;Maranhao;Janeiro;494.0;2015-01-01
+2016;Maranhao;Janeiro;412.0;2016-01-01
+2017;Maranhao;Janeiro;187.0;2017-01-01
+2015;Maranhao;Fevereiro;95.0;2015-01-01
+2016;Maranhao;Fevereiro;318.0;2016-01-01
+2017;Maranhao;Fevereiro;47.0;2017-01-01
+2015;Maranhao;Março;53.0;2015-01-01
+2016;Maranhao;Março;113.0;2016-01-01
+2017;Maranhao;Março;32.0;2017-01-01
+2015;Maranhao;Abril;119.0;2015-01-01
+2016;Maranhao;Abril;113.0;2016-01-01
+2017;Maranhao;Abril;91.0;2017-01-01
+2015;Maranhao;Maio;194.0;2015-01-01
+2016;Maranhao;Maio;206.0;2016-01-01
+2017;Maranhao;Maio;142.0;2017-01-01
+2015;Maranhao;Junho;887.0;2015-01-01
+2016;Maranhao;Junho;709.0;2016-01-01
+2017;Maranhao;Junho;885.0;2017-01-01
+2015;Maranhao;Julho;1.642;2015-01-01
+2016;Maranhao;Julho;2.096;2016-01-01
+2017;Maranhao;Julho;2.521;2017-01-01
+2015;Maranhao;Agosto;5.428;2015-01-01
+2016;Maranhao;Agosto;3.723;2016-01-01
+2017;Maranhao;Agosto;3.875;2017-01-01
+2015;Maranhao;Setembro;6.423;2015-01-01
+2016;Maranhao;Setembro;3.166;2016-01-01
+2017;Maranhao;Setembro;14.825;2017-01-01
+2015;Maranhao;Outubro;6.746;2015-01-01
+2016;Maranhao;Outubro;5.351;2016-01-01
+2017;Maranhao;Outubro;6.011;2017-01-01
+2015;Maranhao;Novembro;4.35;2015-01-01
+2016;Maranhao;Novembro;3.982;2016-01-01
+2017;Maranhao;Novembro;2.3;2017-01-01
+2015;Maranhao;Dezembro;3.706;2015-01-01
+2016;Maranhao;Dezembro;1.577;2016-01-01
+2015;Mato Grosso;Janeiro;960.0;2015-01-01
+2016;Mato Grosso;Janeiro;374.0;2016-01-01
+2017;Mato Grosso;Janeiro;482.0;2017-01-01
+2015;Mato Grosso;Fevereiro;542.0;2015-01-01
+2016;Mato Grosso;Fevereiro;1.05;2016-01-01
+2017;Mato Grosso;Fevereiro;337.0;2017-01-01
+2015;Mato Grosso;Março;705.0;2015-01-01
+2016;Mato Grosso;Março;1.085;2016-01-01
+2017;Mato Grosso;Março;719.0;2017-01-01
+2015;Mato Grosso;Abril;947.0;2015-01-01
+2016;Mato Grosso;Abril;1.77;2016-01-01
+2017;Mato Grosso;Abril;606.0;2017-01-01
+2015;Mato Grosso;Maio;541.0;2015-01-01
+2016;Mato Grosso;Maio;1.081;2016-01-01
+2017;Mato Grosso;Maio;845.0;2017-01-01
+2015;Mato Grosso;Junho;1.402;2015-01-01
+2016;Mato Grosso;Junho;1.417;2016-01-01
+2017;Mato Grosso;Junho;2.041;2017-01-01
+2015;Mato Grosso;Julho;1.533;2015-01-01
+2016;Mato Grosso;Julho;3.495;2016-01-01
+2017;Mato Grosso;Julho;2.79;2017-01-01
+2015;Mato Grosso;Agosto;5.112;2015-01-01
+2016;Mato Grosso;Agosto;6.228;2016-01-01
+2017;Mato Grosso;Agosto;6.229;2017-01-01
+2015;Mato Grosso;Setembro;11.068;2015-01-01
+2016;Mato Grosso;Setembro;8.98;2016-01-01
+2017;Mato Grosso;Setembro;23.945;2017-01-01
+2015;Mato Grosso;Outubro;6.49;2015-01-01
+2016;Mato Grosso;Outubro;2.749;2016-01-01
+2017;Mato Grosso;Outubro;4.8;2017-01-01
+2015;Mato Grosso;Novembro;1.93;2015-01-01
+2016;Mato Grosso;Novembro;918.0;2016-01-01
+2017;Mato Grosso;Novembro;813.0;2017-01-01
+2015;Mato Grosso;Dezembro;1.777;2015-01-01
+2016;Mato Grosso;Dezembro;425.0;2016-01-01
+2015;Mato Grosso;Janeiro;226.0;2015-01-01
+2016;Mato Grosso;Janeiro;127.0;2016-01-01
+2017;Mato Grosso;Janeiro;355.0;2017-01-01
+2015;Mato Grosso;Fevereiro;148.0;2015-01-01
+2016;Mato Grosso;Fevereiro;187.0;2016-01-01
+2017;Mato Grosso;Fevereiro;165.0;2017-01-01
+2015;Mato Grosso;Março;190.0;2015-01-01
+2016;Mato Grosso;Março;143.0;2016-01-01
+2017;Mato Grosso;Março;170.0;2017-01-01
+2015;Mato Grosso;Abril;65.0;2015-01-01
+2016;Mato Grosso;Abril;161.0;2016-01-01
+2017;Mato Grosso;Abril;59.0;2017-01-01
+2015;Mato Grosso;Maio;58.0;2015-01-01
+2016;Mato Grosso;Maio;97.0;2016-01-01
+2017;Mato Grosso;Maio;72.0;2017-01-01
+2015;Mato Grosso;Junho;299.0;2015-01-01
+2016;Mato Grosso;Junho;120.0;2016-01-01
+2017;Mato Grosso;Junho;175.0;2017-01-01
+2015;Mato Grosso;Julho;371.0;2015-01-01
+2016;Mato Grosso;Julho;687.0;2016-01-01
+2017;Mato Grosso;Julho;1.05;2017-01-01
+2015;Mato Grosso;Agosto;1.293;2015-01-01
+2016;Mato Grosso;Agosto;1.481;2016-01-01
+2017;Mato Grosso;Agosto;1.488;2017-01-01
+2015;Mato Grosso;Setembro;1.482;2015-01-01
+2016;Mato Grosso;Setembro;2.383;2016-01-01
+2017;Mato Grosso;Setembro;2.984;2017-01-01
+2015;Mato Grosso;Outubro;507.0;2015-01-01
+2016;Mato Grosso;Outubro;1.2;2016-01-01
+2017;Mato Grosso;Outubro;685.0;2017-01-01
+2015;Mato Grosso;Novembro;276.0;2015-01-01
+2016;Mato Grosso;Novembro;258.0;2016-01-01
+2017;Mato Grosso;Novembro;133.0;2017-01-01
+2015;Mato Grosso;Dezembro;394.0;2015-01-01
+2016;Mato Grosso;Dezembro;123.0;2016-01-01
+2015;Minas Gerais;Janeiro;147.0;2015-01-01
+2016;Minas Gerais;Janeiro;61.0;2016-01-01
+2017;Minas Gerais;Janeiro;106.0;2017-01-01
+2015;Minas Gerais;Fevereiro;84.0;2015-01-01
+2016;Minas Gerais;Fevereiro;207.0;2016-01-01
+2017;Minas Gerais;Fevereiro;61.0;2017-01-01
+2015;Minas Gerais;Março;80.0;2015-01-01
+2016;Minas Gerais;Março;123.0;2016-01-01
+2017;Minas Gerais;Março;105.0;2017-01-01
+2015;Minas Gerais;Abril;109.0;2015-01-01
+2016;Minas Gerais;Abril;172.0;2016-01-01
+2017;Minas Gerais;Abril;69.0;2017-01-01
+2015;Minas Gerais;Maio;114.0;2015-01-01
+2016;Minas Gerais;Maio;186.0;2016-01-01
+2017;Minas Gerais;Maio;125.0;2017-01-01
+2015;Minas Gerais;Junho;200.0;2015-01-01
+2016;Minas Gerais;Junho;263.0;2016-01-01
+2017;Minas Gerais;Junho;360.0;2017-01-01
+2015;Minas Gerais;Julho;288.0;2015-01-01
+2016;Minas Gerais;Julho;1.004;2016-01-01
+2017;Minas Gerais;Julho;610.0;2017-01-01
+2015;Minas Gerais;Agosto;1.059;2015-01-01
+2016;Minas Gerais;Agosto;1.433;2016-01-01
+2017;Minas Gerais;Agosto;2.142;2017-01-01
+2015;Minas Gerais;Setembro;3.088;2015-01-01
+2016;Minas Gerais;Setembro;2.093;2016-01-01
+2017;Minas Gerais;Setembro;4.697;2017-01-01
+2015;Minas Gerais;Outubro;3.708;2015-01-01
+2016;Minas Gerais;Outubro;948.0;2016-01-01
+2017;Minas Gerais;Outubro;3.062;2017-01-01
+2015;Minas Gerais;Novembro;1.453;2015-01-01
+2016;Minas Gerais;Novembro;126.0;2016-01-01
+2017;Minas Gerais;Novembro;136.0;2017-01-01
+2015;Minas Gerais;Dezembro;295.0;2015-01-01
+2016;Minas Gerais;Dezembro;91.0;2016-01-01
+2015;Pará;Janeiro;725.0;2015-01-01
+2016;Pará;Janeiro;1.322;2016-01-01
+2017;Pará;Janeiro;219.0;2017-01-01
+2015;Pará;Fevereiro;108.0;2015-01-01
+2016;Pará;Fevereiro;430.0;2016-01-01
+2017;Pará;Fevereiro;14.0;2017-01-01
+2015;Pará;Março;61.0;2015-01-01
+2016;Pará;Março;81.0;2016-01-01
+2017;Pará;Março;42.0;2017-01-01
+2015;Pará;Abril;27.0;2015-01-01
+2016;Pará;Abril;66.0;2016-01-01
+2017;Pará;Abril;45.0;2017-01-01
+2015;Pará;Maio;95.0;2015-01-01
+2016;Pará;Maio;154.0;2016-01-01
+2017;Pará;Maio;114.0;2017-01-01
+2015;Pará;Junho;265.0;2015-01-01
+2016;Pará;Junho;502.0;2016-01-01
+2017;Pará;Junho;679.0;2017-01-01
+2015;Pará;Julho;906.0;2015-01-01
+2016;Pará;Julho;1.579;2016-01-01
+2017;Pará;Julho;4.985;2017-01-01
+2015;Pará;Agosto;7.913;2015-01-01
+2016;Pará;Agosto;4.863;2016-01-01
+2017;Pará;Agosto;11.962;2017-01-01
+2015;Pará;Setembro;11.068;2015-01-01
+2016;Pará;Setembro;3.953;2016-01-01
+2017;Pará;Setembro;25.004;2017-01-01
+2015;Pará;Outubro;7.781;2015-01-01
+2016;Pará;Outubro;5.281;2016-01-01
+2017;Pará;Outubro;7.628;2017-01-01
+2015;Pará;Novembro;9.643;2015-01-01
+2016;Pará;Novembro;7.879;2016-01-01
+2017;Pará;Novembro;9.079;2017-01-01
+2015;Pará;Dezembro;6.61;2015-01-01
+2016;Pará;Dezembro;3.3;2016-01-01
+2015;Paraiba;Janeiro;42.0;2015-01-01
+2016;Paraiba;Janeiro;18.0;2016-01-01
+2017;Paraiba;Janeiro;23.0;2017-01-01
+2015;Paraiba;Fevereiro;15.0;2015-01-01
+2016;Paraiba;Fevereiro;4.0;2016-01-01
+2017;Paraiba;Fevereiro;8.0;2017-01-01
+2015;Paraiba;Março;7.0;2015-01-01
+2016;Paraiba;Março;1.0;2016-01-01
+2017;Paraiba;Março;2.0;2017-01-01
+2015;Paraiba;Abril;11.0;2015-01-01
+2016;Paraiba;Abril;1.0;2016-01-01
+2017;Paraiba;Abril;1.0;2017-01-01
+2015;Paraiba;Maio;6.0;2015-01-01
+2016;Paraiba;Maio;1.0;2016-01-01
+2017;Paraiba;Maio;1.0;2017-01-01
+2015;Paraiba;Junho;0.0;2015-01-01
+2016;Paraiba;Junho;4.0;2016-01-01
+2017;Paraiba;Junho;0.0;2017-01-01
+2015;Paraiba;Julho;3.0;2015-01-01
+2016;Paraiba;Julho;22.0;2016-01-01
+2017;Paraiba;Julho;2.0;2017-01-01
+2015;Paraiba;Agosto;5.0;2015-01-01
+2016;Paraiba;Agosto;50.0;2016-01-01
+2017;Paraiba;Agosto;3.0;2017-01-01
+2015;Paraiba;Setembro;48.0;2015-01-01
+2016;Paraiba;Setembro;131.0;2016-01-01
+2017;Paraiba;Setembro;30.0;2017-01-01
+2015;Paraiba;Outubro;121.0;2015-01-01
+2016;Paraiba;Outubro;304.0;2016-01-01
+2017;Paraiba;Outubro;123.0;2017-01-01
+2015;Paraiba;Novembro;206.0;2015-01-01
+2016;Paraiba;Novembro;132.0;2016-01-01
+2017;Paraiba;Novembro;101.0;2017-01-01
+2015;Paraiba;Dezembro;122.0;2015-01-01
+2016;Paraiba;Dezembro;8.0;2016-01-01
+2015;Paraiba;Janeiro;120.0;2015-01-01
+2016;Paraiba;Janeiro;113.0;2016-01-01
+2017;Paraiba;Janeiro;55.0;2017-01-01
+2015;Paraiba;Fevereiro;58.0;2015-01-01
+2016;Paraiba;Fevereiro;31.0;2016-01-01
+2017;Paraiba;Fevereiro;60.0;2017-01-01
+2015;Paraiba;Março;55.0;2015-01-01
+2016;Paraiba;Março;63.0;2016-01-01
+2017;Paraiba;Março;43.0;2017-01-01
+2015;Paraiba;Abril;83.0;2015-01-01
+2016;Paraiba;Abril;167.0;2016-01-01
+2017;Paraiba;Abril;77.0;2017-01-01
+2015;Paraiba;Maio;77.0;2015-01-01
+2016;Paraiba;Maio;72.0;2016-01-01
+2017;Paraiba;Maio;49.0;2017-01-01
+2015;Paraiba;Junho;201.0;2015-01-01
+2016;Paraiba;Junho;238.0;2016-01-01
+2017;Paraiba;Junho;169.0;2017-01-01
+2015;Paraiba;Julho;137.0;2015-01-01
+2016;Paraiba;Julho;504.0;2016-01-01
+2017;Paraiba;Julho;891.0;2017-01-01
+2015;Paraiba;Agosto;651.0;2015-01-01
+2016;Paraiba;Agosto;1.01;2016-01-01
+2017;Paraiba;Agosto;987.0;2017-01-01
+2015;Paraiba;Setembro;599.0;2015-01-01
+2016;Paraiba;Setembro;1.371;2016-01-01
+2017;Paraiba;Setembro;1.706;2017-01-01
+2015;Paraiba;Outubro;158.0;2015-01-01
+2016;Paraiba;Outubro;193.0;2016-01-01
+2017;Paraiba;Outubro;134.0;2017-01-01
+2015;Paraiba;Novembro;18.0;2015-01-01
+2016;Paraiba;Novembro;275.0;2016-01-01
+2017;Paraiba;Novembro;292.0;2017-01-01
+2015;Paraiba;Dezembro;30.0;2015-01-01
+2016;Paraiba;Dezembro;45.0;2016-01-01
+2015;Pernambuco;Janeiro;109.0;2015-01-01
+2016;Pernambuco;Janeiro;24.0;2016-01-01
+2017;Pernambuco;Janeiro;52.0;2017-01-01
+2015;Pernambuco;Fevereiro;55.0;2015-01-01
+2016;Pernambuco;Fevereiro;19.0;2016-01-01
+2017;Pernambuco;Fevereiro;23.0;2017-01-01
+2015;Pernambuco;Março;33.0;2015-01-01
+2016;Pernambuco;Março;4.0;2016-01-01
+2017;Pernambuco;Março;7.0;2017-01-01
+2015;Pernambuco;Abril;30.0;2015-01-01
+2016;Pernambuco;Abril;8.0;2016-01-01
+2017;Pernambuco;Abril;9.0;2017-01-01
+2015;Pernambuco;Maio;17.0;2015-01-01
+2016;Pernambuco;Maio;6.0;2016-01-01
+2017;Pernambuco;Maio;13.0;2017-01-01
+2015;Pernambuco;Junho;3.0;2015-01-01
+2016;Pernambuco;Junho;4.0;2016-01-01
+2017;Pernambuco;Junho;5.0;2017-01-01
+2015;Pernambuco;Julho;13.0;2015-01-01
+2016;Pernambuco;Julho;17.0;2016-01-01
+2017;Pernambuco;Julho;2.0;2017-01-01
+2015;Pernambuco;Agosto;21.0;2015-01-01
+2016;Pernambuco;Agosto;42.0;2016-01-01
+2017;Pernambuco;Agosto;20.0;2017-01-01
+2015;Pernambuco;Setembro;116.0;2015-01-01
+2016;Pernambuco;Setembro;171.0;2016-01-01
+2017;Pernambuco;Setembro;69.0;2017-01-01
+2015;Pernambuco;Outubro;194.0;2015-01-01
+2016;Pernambuco;Outubro;319.0;2016-01-01
+2017;Pernambuco;Outubro;256.0;2017-01-01
+2015;Pernambuco;Novembro;315.0;2015-01-01
+2016;Pernambuco;Novembro;191.0;2016-01-01
+2017;Pernambuco;Novembro;66.0;2017-01-01
+2015;Pernambuco;Dezembro;176.0;2015-01-01
+2016;Pernambuco;Dezembro;161.0;2016-01-01
+2015;Piau;Janeiro;92.0;2015-01-01
+2016;Piau;Janeiro;94.0;2016-01-01
+2017;Piau;Janeiro;85.0;2017-01-01
+2015;Piau;Fevereiro;38.0;2015-01-01
+2016;Piau;Fevereiro;97.0;2016-01-01
+2017;Piau;Fevereiro;24.0;2017-01-01
+2015;Piau;Março;35.0;2015-01-01
+2016;Piau;Março;53.0;2016-01-01
+2017;Piau;Março;25.0;2017-01-01
+2015;Piau;Abril;50.0;2015-01-01
+2016;Piau;Abril;35.0;2016-01-01
+2017;Piau;Abril;25.0;2017-01-01
+2015;Piau;Maio;66.0;2015-01-01
+2016;Piau;Maio;60.0;2016-01-01
+2017;Piau;Maio;36.0;2017-01-01
+2015;Piau;Junho;283.0;2015-01-01
+2016;Piau;Junho;153.0;2016-01-01
+2017;Piau;Junho;193.0;2017-01-01
+2015;Piau;Julho;690.0;2015-01-01
+2016;Piau;Julho;754.0;2016-01-01
+2017;Piau;Julho;643.0;2017-01-01
+2015;Piau;Agosto;2.057;2015-01-01
+2016;Piau;Agosto;1.647;2016-01-01
+2017;Piau;Agosto;1.572;2017-01-01
+2015;Piau;Setembro;5.828;2015-01-01
+2016;Piau;Setembro;1.394;2016-01-01
+2017;Piau;Setembro;3.422;2017-01-01
+2015;Piau;Outubro;4.068;2015-01-01
+2016;Piau;Outubro;2.598;2016-01-01
+2017;Piau;Outubro;3.004;2017-01-01
+2015;Piau;Novembro;897.0;2015-01-01
+2016;Piau;Novembro;1.126;2016-01-01
+2017;Piau;Novembro;449.0;2017-01-01
+2015;Piau;Dezembro;626.0;2015-01-01
+2016;Piau;Dezembro;374.0;2016-01-01
+2015;Rio;Janeiro;97.0;2015-01-01
+2016;Rio;Janeiro;9.0;2016-01-01
+2017;Rio;Janeiro;15.0;2017-01-01
+2015;Rio;Fevereiro;36.0;2015-01-01
+2016;Rio;Fevereiro;16.0;2016-01-01
+2017;Rio;Fevereiro;34.0;2017-01-01
+2015;Rio;Março;23.0;2015-01-01
+2016;Rio;Março;16.0;2016-01-01
+2017;Rio;Março;10.0;2017-01-01
+2015;Rio;Abril;24.0;2015-01-01
+2016;Rio;Abril;45.0;2016-01-01
+2017;Rio;Abril;12.0;2017-01-01
+2015;Rio;Maio;21.0;2015-01-01
+2016;Rio;Maio;30.0;2016-01-01
+2017;Rio;Maio;15.0;2017-01-01
+2015;Rio;Junho;33.0;2015-01-01
+2016;Rio;Junho;37.0;2016-01-01
+2017;Rio;Junho;68.0;2017-01-01
+2015;Rio;Julho;74.0;2015-01-01
+2016;Rio;Julho;131.0;2016-01-01
+2017;Rio;Julho;70.0;2017-01-01
+2015;Rio;Agosto;158.0;2015-01-01
+2016;Rio;Agosto;241.0;2016-01-01
+2017;Rio;Agosto;164.0;2017-01-01
+2015;Rio;Setembro;85.0;2015-01-01
+2016;Rio;Setembro;195.0;2016-01-01
+2017;Rio;Setembro;728.0;2017-01-01
+2015;Rio;Outubro;96.0;2015-01-01
+2016;Rio;Outubro;30.0;2016-01-01
+2017;Rio;Outubro;238.0;2017-01-01
+2015;Rio;Novembro;6.0;2015-01-01
+2016;Rio;Novembro;19.0;2016-01-01
+2017;Rio;Novembro;43.0;2017-01-01
+2015;Rio;Dezembro;11.0;2015-01-01
+2016;Rio;Dezembro;5.0;2016-01-01
+2015;Rio;Janeiro;45.0;2015-01-01
+2016;Rio;Janeiro;15.0;2016-01-01
+2017;Rio;Janeiro;28.0;2017-01-01
+2015;Rio;Fevereiro;15.0;2015-01-01
+2016;Rio;Fevereiro;2.0;2016-01-01
+2017;Rio;Fevereiro;10.0;2017-01-01
+2015;Rio;Março;3.0;2015-01-01
+2016;Rio;Março;1.0;2016-01-01
+2017;Rio;Março;3.0;2017-01-01
+2015;Rio;Abril;4.0;2015-01-01
+2016;Rio;Abril;0.0;2016-01-01
+2017;Rio;Abril;6.0;2017-01-01
+2015;Rio;Maio;4.0;2015-01-01
+2016;Rio;Maio;1.0;2016-01-01
+2017;Rio;Maio;2.0;2017-01-01
+2015;Rio;Junho;5.0;2015-01-01
+2016;Rio;Junho;4.0;2016-01-01
+2017;Rio;Junho;3.0;2017-01-01
+2015;Rio;Julho;3.0;2015-01-01
+2016;Rio;Julho;13.0;2016-01-01
+2017;Rio;Julho;4.0;2017-01-01
+2015;Rio;Agosto;16.0;2015-01-01
+2016;Rio;Agosto;24.0;2016-01-01
+2017;Rio;Agosto;21.0;2017-01-01
+2015;Rio;Setembro;36.0;2015-01-01
+2016;Rio;Setembro;44.0;2016-01-01
+2017;Rio;Setembro;48.0;2017-01-01
+2015;Rio;Outubro;129.0;2015-01-01
+2016;Rio;Outubro;129.0;2016-01-01
+2017;Rio;Outubro;85.0;2017-01-01
+2015;Rio;Novembro;105.0;2015-01-01
+2016;Rio;Novembro;93.0;2016-01-01
+2017;Rio;Novembro;89.0;2017-01-01
+2015;Rio;Dezembro;74.0;2015-01-01
+2016;Rio;Dezembro;75.0;2016-01-01
+2015;Rio;Janeiro;51.0;2015-01-01
+2016;Rio;Janeiro;68.0;2016-01-01
+2017;Rio;Janeiro;28.0;2017-01-01
+2015;Rio;Fevereiro;41.0;2015-01-01
+2016;Rio;Fevereiro;55.0;2016-01-01
+2017;Rio;Fevereiro;31.0;2017-01-01
+2015;Rio;Março;108.0;2015-01-01
+2016;Rio;Março;30.0;2016-01-01
+2017;Rio;Março;34.0;2017-01-01
+2015;Rio;Abril;175.0;2015-01-01
+2016;Rio;Abril;32.0;2016-01-01
+2017;Rio;Abril;51.0;2017-01-01
+2015;Rio;Maio;169.0;2015-01-01
+2016;Rio;Maio;37.0;2016-01-01
+2017;Rio;Maio;43.0;2017-01-01
+2015;Rio;Junho;68.0;2015-01-01
+2016;Rio;Junho;261.0;2016-01-01
+2017;Rio;Junho;103.0;2017-01-01
+2015;Rio;Julho;60.0;2015-01-01
+2016;Rio;Julho;865.0;2016-01-01
+2017;Rio;Julho;885.0;2017-01-01
+2015;Rio;Agosto;414.0;2015-01-01
+2016;Rio;Agosto;1.111;2016-01-01
+2017;Rio;Agosto;819.0;2017-01-01
+2015;Rio;Setembro;222.0;2015-01-01
+2016;Rio;Setembro;628.0;2016-01-01
+2017;Rio;Setembro;343.0;2017-01-01
+2015;Rio;Outubro;70.0;2015-01-01
+2016;Rio;Outubro;93.0;2016-01-01
+2017;Rio;Outubro;101.0;2017-01-01
+2015;Rio;Novembro;30.0;2015-01-01
+2016;Rio;Novembro;105.0;2016-01-01
+2017;Rio;Novembro;137.0;2017-01-01
+2015;Rio;Dezembro;42.0;2015-01-01
+2016;Rio;Dezembro;79.0;2016-01-01
+2015;Rondonia;Janeiro;30.0;2015-01-01
+2016;Rondonia;Janeiro;93.0;2016-01-01
+2017;Rondonia;Janeiro;44.0;2017-01-01
+2015;Rondonia;Fevereiro;22.0;2015-01-01
+2016;Rondonia;Fevereiro;88.0;2016-01-01
+2017;Rondonia;Fevereiro;10.0;2017-01-01
+2015;Rondonia;Março;15.0;2015-01-01
+2016;Rondonia;Março;25.0;2016-01-01
+2017;Rondonia;Março;21.0;2017-01-01
+2015;Rondonia;Abril;15.0;2015-01-01
+2016;Rondonia;Abril;59.0;2016-01-01
+2017;Rondonia;Abril;19.0;2017-01-01
+2015;Rondonia;Maio;13.0;2015-01-01
+2016;Rondonia;Maio;44.0;2016-01-01
+2017;Rondonia;Maio;31.0;2017-01-01
+2015;Rondonia;Junho;119.0;2015-01-01
+2016;Rondonia;Junho;170.0;2016-01-01
+2017;Rondonia;Junho;192.0;2017-01-01
+2015;Rondonia;Julho;423.0;2015-01-01
+2016;Rondonia;Julho;969.0;2016-01-01
+2017;Rondonia;Julho;1.28;2017-01-01
+2015;Rondonia;Agosto;3.762;2015-01-01
+2016;Rondonia;Agosto;3.675;2016-01-01
+2017;Rondonia;Agosto;4.287;2017-01-01
+2015;Rondonia;Setembro;6.129;2015-01-01
+2016;Rondonia;Setembro;4.208;2016-01-01
+2017;Rondonia;Setembro;5.638;2017-01-01
+2015;Rondonia;Outubro;2.598;2015-01-01
+2016;Rondonia;Outubro;1.844;2016-01-01
+2017;Rondonia;Outubro;2.19;2017-01-01
+2015;Rondonia;Novembro;1.002;2015-01-01
+2016;Rondonia;Novembro;401.0;2016-01-01
+2017;Rondonia;Novembro;372.0;2017-01-01
+2015;Rondonia;Dezembro;282.0;2015-01-01
+2016;Rondonia;Dezembro;148.0;2016-01-01
+2015;Roraima;Janeiro;330.0;2015-01-01
+2016;Roraima;Janeiro;1.754;2016-01-01
+2017;Roraima;Janeiro;108.0;2017-01-01
+2015;Roraima;Fevereiro;418.0;2015-01-01
+2016;Roraima;Fevereiro;171.0;2016-01-01
+2017;Roraima;Fevereiro;129.0;2017-01-01
+2015;Roraima;Março;163.0;2015-01-01
+2016;Roraima;Março;1.081;2016-01-01
+2017;Roraima;Março;216.0;2017-01-01
+2015;Roraima;Abril;278.0;2015-01-01
+2016;Roraima;Abril;126.0;2016-01-01
+2017;Roraima;Abril;51.0;2017-01-01
+2015;Roraima;Maio;12.0;2015-01-01
+2016;Roraima;Maio;22.0;2016-01-01
+2017;Roraima;Maio;29.0;2017-01-01
+2015;Roraima;Junho;3.0;2015-01-01
+2016;Roraima;Junho;7.0;2016-01-01
+2017;Roraima;Junho;4.0;2017-01-01
+2015;Roraima;Julho;5.0;2015-01-01
+2016;Roraima;Julho;0.0;2016-01-01
+2017;Roraima;Julho;3.0;2017-01-01
+2015;Roraima;Agosto;11.0;2015-01-01
+2016;Roraima;Agosto;11.0;2016-01-01
+2017;Roraima;Agosto;35.0;2017-01-01
+2015;Roraima;Setembro;77.0;2015-01-01
+2016;Roraima;Setembro;19.0;2016-01-01
+2017;Roraima;Setembro;43.0;2017-01-01
+2015;Roraima;Outubro;181.0;2015-01-01
+2016;Roraima;Outubro;101.0;2016-01-01
+2017;Roraima;Outubro;156.0;2017-01-01
+2015;Roraima;Novembro;280.0;2015-01-01
+2016;Roraima;Novembro;71.0;2016-01-01
+2017;Roraima;Novembro;327.0;2017-01-01
+2015;Roraima;Dezembro;304.0;2015-01-01
+2016;Roraima;Dezembro;136.0;2016-01-01
+2015;Santa Catarina;Janeiro;28.0;2015-01-01
+2016;Santa Catarina;Janeiro;53.0;2016-01-01
+2017;Santa Catarina;Janeiro;46.0;2017-01-01
+2015;Santa Catarina;Fevereiro;23.0;2015-01-01
+2016;Santa Catarina;Fevereiro;10.0;2016-01-01
+2017;Santa Catarina;Fevereiro;31.0;2017-01-01
+2015;Santa Catarina;Março;37.0;2015-01-01
+2016;Santa Catarina;Março;21.0;2016-01-01
+2017;Santa Catarina;Março;12.0;2017-01-01
+2015;Santa Catarina;Abril;32.0;2015-01-01
+2016;Santa Catarina;Abril;36.0;2016-01-01
+2017;Santa Catarina;Abril;26.0;2017-01-01
+2015;Santa Catarina;Maio;70.0;2015-01-01
+2016;Santa Catarina;Maio;26.0;2016-01-01
+2017;Santa Catarina;Maio;36.0;2017-01-01
+2015;Santa Catarina;Junho;104.0;2015-01-01
+2016;Santa Catarina;Junho;79.0;2016-01-01
+2017;Santa Catarina;Junho;70.0;2017-01-01
+2015;Santa Catarina;Julho;45.0;2015-01-01
+2016;Santa Catarina;Julho;480.0;2016-01-01
+2017;Santa Catarina;Julho;591.0;2017-01-01
+2015;Santa Catarina;Agosto;379.0;2015-01-01
+2016;Santa Catarina;Agosto;765.0;2016-01-01
+2017;Santa Catarina;Agosto;713.0;2017-01-01
+2015;Santa Catarina;Setembro;156.0;2015-01-01
+2016;Santa Catarina;Setembro;644.0;2016-01-01
+2017;Santa Catarina;Setembro;626.0;2017-01-01
+2015;Santa Catarina;Outubro;21.0;2015-01-01
+2016;Santa Catarina;Outubro;56.0;2016-01-01
+2017;Santa Catarina;Outubro;51.0;2017-01-01
+2015;Santa Catarina;Novembro;9.0;2015-01-01
+2016;Santa Catarina;Novembro;156.0;2016-01-01
+2017;Santa Catarina;Novembro;152.0;2017-01-01
+2015;Santa Catarina;Dezembro;19.0;2015-01-01
+2016;Santa Catarina;Dezembro;20.0;2016-01-01
+2015;Sao Paulo;Janeiro;120.0;2015-01-01
+2016;Sao Paulo;Janeiro;85.0;2016-01-01
+2017;Sao Paulo;Janeiro;28.0;2017-01-01
+2015;Sao Paulo;Fevereiro;69.0;2015-01-01
+2016;Sao Paulo;Fevereiro;188.0;2016-01-01
+2017;Sao Paulo;Fevereiro;107.0;2017-01-01
+2015;Sao Paulo;Março;68.0;2015-01-01
+2016;Sao Paulo;Março;82.0;2016-01-01
+2017;Sao Paulo;Março;103.0;2017-01-01
+2015;Sao Paulo;Abril;76.0;2015-01-01
+2016;Sao Paulo;Abril;307.0;2016-01-01
+2017;Sao Paulo;Abril;41.0;2017-01-01
+2015;Sao Paulo;Maio;65.0;2015-01-01
+2016;Sao Paulo;Maio;139.0;2016-01-01
+2017;Sao Paulo;Maio;43.0;2017-01-01
+2015;Sao Paulo;Junho;147.0;2015-01-01
+2016;Sao Paulo;Junho;197.0;2016-01-01
+2017;Sao Paulo;Junho;217.0;2017-01-01
+2015;Sao Paulo;Julho;149.0;2015-01-01
+2016;Sao Paulo;Julho;687.0;2016-01-01
+2017;Sao Paulo;Julho;802.0;2017-01-01
+2015;Sao Paulo;Agosto;643.0;2015-01-01
+2016;Sao Paulo;Agosto;797.0;2016-01-01
+2017;Sao Paulo;Agosto;981.0;2017-01-01
+2015;Sao Paulo;Setembro;368.0;2015-01-01
+2016;Sao Paulo;Setembro;490.0;2016-01-01
+2017;Sao Paulo;Setembro;2.868;2017-01-01
+2015;Sao Paulo;Outubro;213.0;2015-01-01
+2016;Sao Paulo;Outubro;177.0;2016-01-01
+2017;Sao Paulo;Outubro;179.0;2017-01-01
+2015;Sao Paulo;Novembro;21.0;2015-01-01
+2016;Sao Paulo;Novembro;39.0;2016-01-01
+2017;Sao Paulo;Novembro;37.0;2017-01-01
+2015;Sao Paulo;Dezembro;45.0;2015-01-01
+2016;Sao Paulo;Dezembro;47.0;2016-01-01
+2015;Sergipe;Janeiro;44.0;2015-01-01
+2016;Sergipe;Janeiro;9.0;2016-01-01
+2017;Sergipe;Janeiro;31.0;2017-01-01
+2015;Sergipe;Fevereiro;40.0;2015-01-01
+2016;Sergipe;Fevereiro;22.0;2016-01-01
+2017;Sergipe;Fevereiro;18.0;2017-01-01
+2015;Sergipe;Março;49.0;2015-01-01
+2016;Sergipe;Março;26.0;2016-01-01
+2017;Sergipe;Março;16.0;2017-01-01
+2015;Sergipe;Abril;35.0;2015-01-01
+2016;Sergipe;Abril;14.0;2016-01-01
+2017;Sergipe;Abril;8.0;2017-01-01
+2015;Sergipe;Maio;11.0;2015-01-01
+2016;Sergipe;Maio;9.0;2016-01-01
+2017;Sergipe;Maio;1.0;2017-01-01
+2015;Sergipe;Junho;3.0;2015-01-01
+2016;Sergipe;Junho;1.0;2016-01-01
+2017;Sergipe;Junho;0.0;2017-01-01
+2015;Sergipe;Julho;0.0;2015-01-01
+2016;Sergipe;Julho;0.0;2016-01-01
+2017;Sergipe;Julho;0.0;2017-01-01
+2015;Sergipe;Agosto;0.0;2015-01-01
+2016;Sergipe;Agosto;6.0;2016-01-01
+2017;Sergipe;Agosto;0.0;2017-01-01
+2015;Sergipe;Setembro;1.0;2015-01-01
+2016;Sergipe;Setembro;2.0;2016-01-01
+2017;Sergipe;Setembro;0.0;2017-01-01
+2015;Sergipe;Outubro;6.0;2015-01-01
+2016;Sergipe;Outubro;10.0;2016-01-01
+2017;Sergipe;Outubro;0.0;2017-01-01
+2015;Sergipe;Novembro;47.0;2015-01-01
+2016;Sergipe;Novembro;17.0;2016-01-01
+2017;Sergipe;Novembro;1.0;2017-01-01
+2015;Sergipe;Dezembro;63.0;2015-01-01
+2016;Sergipe;Dezembro;36.0;2016-01-01
+2015;Tocantins;Janeiro;186.0;2015-01-01
+2016;Tocantins;Janeiro;42.0;2016-01-01
+2017;Tocantins;Janeiro;61.0;2017-01-01
+2015;Tocantins;Fevereiro;65.0;2015-01-01
+2016;Tocantins;Fevereiro;383.0;2016-01-01
+2017;Tocantins;Fevereiro;25.0;2017-01-01
+2015;Tocantins;Março;85.0;2015-01-01
+2016;Tocantins;Março;165.0;2016-01-01
+2017;Tocantins;Março;98.0;2017-01-01
+2015;Tocantins;Abril;88.0;2015-01-01
+2016;Tocantins;Abril;369.0;2016-01-01
+2017;Tocantins;Abril;164.0;2017-01-01
+2015;Tocantins;Maio;512.0;2015-01-01
+2016;Tocantins;Maio;778.0;2016-01-01
+2017;Tocantins;Maio;576.0;2017-01-01
+2015;Tocantins;Junho;1.15;2015-01-01
+2016;Tocantins;Junho;1.148;2016-01-01
+2017;Tocantins;Junho;1.32;2017-01-01
+2015;Tocantins;Julho;1.217;2015-01-01
+2016;Tocantins;Julho;2.737;2016-01-01
+2017;Tocantins;Julho;2.397;2017-01-01
+2015;Tocantins;Agosto;2.54;2015-01-01
+2016;Tocantins;Agosto;3.213;2016-01-01
+2017;Tocantins;Agosto;3.536;2017-01-01
+2015;Tocantins;Setembro;5.51;2015-01-01
+2016;Tocantins;Setembro;3.245;2016-01-01
+2017;Tocantins;Setembro;10.737;2017-01-01
+2015;Tocantins;Outubro;4.844;2015-01-01
+2016;Tocantins;Outubro;2.032;2016-01-01
+2017;Tocantins;Outubro;2.969;2017-01-01
+2015;Tocantins;Novembro;833.0;2015-01-01
+2016;Tocantins;Novembro;623.0;2016-01-01
+2017;Tocantins;Novembro;434.0;2017-01-01
+2015;Tocantins;Dezembro;373.0;2015-01-01
+2016;Tocantins;Dezembro;119.0;2016-01-01
