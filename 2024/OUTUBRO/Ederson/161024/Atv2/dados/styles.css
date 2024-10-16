@@ -1,0 +1,106 @@
+@font-face {
+    font-family: 'Ancient Modern Tales';
+    src: url('fontes/AncientModernTales-a7Po.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Nine Teen Ninety Six';
+    src: url('fontes/NineteenNinetySix-lWzq.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Stardew Valley ALL CAPS';
+    src: url('fontes/NineteenNinetySix-lWzq.ttf') format('truetype');
+}
+
+
+body {
+    background-color: rgb(255, 226, 183);
+
+}
+
+
+.background {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    background-image: url('background.jpg'); 
+    background-position: center; 
+    z-index: -1;
+    right: 0 ;
+    top: 0;
+}
+
+
+.navbar-nav {
+    background-color: #000000;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 3vh;  
+    padding: 10px 0; 
+    position: absolute;
+    right: 0 ;
+    top: 0;
+}
+
+.title {
+    font-family: 'Stardew Valley ALL CAPS';
+    font-size: 50px;
+    position: fixed;
+    margin-left: 50%;
+}
+
+a {
+    font-family: 'Ancient Modern Tales';
+    font-size: 25px;
+    color: #fff; 
+    text-decoration: none;
+    padding: 0 15px; 
+}
+
+a:hover {
+    color: rgb(255, 226, 183); 
+    text-shadow: 0.07em 0.07em #333;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+    margin-top: 3%;
+}
+
+.content {
+    background-color: rgb(255,198,156);
+    width: 130vh;
+    height: 80vh;
+    border-radius: 10px;
+    box-shadow: 0 15px 15px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    border-color: rgb(144,68,25);
+    border-style: groove;
+    border-color: coral;
+    border-width: 10px;
+    border-color: rgb(189,102,3)
+    
+}
+
+.perfil {
+    background-color: rgb(255,198,156);
+    width: 35vh;
+    height: 35vh;
+    border-radius: 10px;
+    box-shadow: 0 15px 15px rgba(0, 0, 0, 0.2);
+    margin-left: 2%;
+    margin-top: 2%;
+    border-style: ridge;
+    border-color: rgb(189,102,3);
+    border-width: 10px;
+}

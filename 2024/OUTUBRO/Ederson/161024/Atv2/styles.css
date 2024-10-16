@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'Ancient Modern Tales';
+    src: url('fontes/AncientModernTales-a7Po.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Nine Teen Ninety Six';
+    src: url('fontes/NineteenNinetySix-lWzq.ttf') format('truetype');
+}
+
+
+body {
+    background-color: rgb(255, 226, 183);
+
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    font-family: 'Ancient Modern Tales', serif;
+    text-shadow: 0.07em 0.07em #333
+}
+
+
+
+.navbar-nav {
+    background-color: #000000;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 3vh;  
+    padding: 10px 0; 
+    position: absolute;
+    right: 0 ;
+    top: 0;
+}
+
+
+
+a {
+    font-family: 'Ancient Modern Tales';
+    font-size: 25px;
+    color: #fff; 
+    text-decoration: none;
+    padding: 0 15px; 
+}
+
+a:hover {
+    color: rgb(255, 226, 183); 
+    text-shadow: 0.07em 0.07em #333;
+}
+

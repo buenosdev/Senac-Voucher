@@ -8,6 +8,7 @@
 # 7 - Faça um programa que converta uma temperatura de Celsius para Fahrenheit e vice-versa. O usuário deverá escolher a conversão desejada.
 # 8 - Crie um algoritmo que receba 5 números e exiba o maior e o menor número informados.
 
+
 # 1 - Função que calcula o fatorial de um número
 def fatorial(n):
     if n == 0 or n == 1:
