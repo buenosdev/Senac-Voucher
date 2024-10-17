@@ -10,28 +10,22 @@
 
 @font-face {
     font-family: 'Stardew Valley ALL CAPS';
-    src: url('fontes/NineteenNinetySix-lWzq.ttf') format('truetype');
+    src: url('Atv2\fontes\Stardew Valley ALL CAPS.ttf') format('truetype');
 }
+
+@font-face {
+    font-family: 'Ingame';
+    src: url('fontes/Ingame.ttf') format('truetype');
+}
+
 
 
 body {
     background-color: rgb(255, 226, 183);
-
-}
-
-
-.background {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    overflow: auto;
+    background-image: url('./image/background.png');
     width: 100%;
-    height: 100vh;
-    position: absolute;
-    background-image: url('background.jpg'); 
-    background-position: center; 
-    z-index: -1;
-    right: 0 ;
-    top: 0;
+    height: 100%;
 }
 
 
@@ -49,10 +43,14 @@ body {
 }
 
 .title {
+    color: rgb(46, 110, 57); 
     font-family: 'Stardew Valley ALL CAPS';
     font-size: 50px;
-    position: fixed;
     margin-left: 50%;
+    margin-top: 10%;
+    position: absolute;
+    z-index: 1;
+    opacity: 0%;
 }
 
 a {
@@ -68,39 +66,90 @@ a:hover {
     text-shadow: 0.07em 0.07em #333;
 }
 
-.container {
+
+
+.content {
+    background-color: rgb(255, 198, 156);
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 100%;
-    height: 100vh;
-    margin-top: 3%;
-}
-
-.content {
-    background-color: rgb(255,198,156);
-    width: 130vh;
+    width: 90%;
+    max-width: 130vh;
     height: 80vh;
+    max-height: 80vh;
+    margin: 5% auto;
+    margin-bottom: 0px;
+    position: relative;
     border-radius: 10px;
     box-shadow: 0 15px 15px rgba(0, 0, 0, 0.2);
     text-align: center;
-    border-color: rgb(144,68,25);
+    border-color: rgb(189, 102, 3);
     border-style: groove;
-    border-color: coral;
     border-width: 10px;
-    border-color: rgb(189,102,3)
-    
 }
 
-.perfil {
+@media (max-width: 768px) {
+    .content {
+        width: 95%;
+        height: 50vh;
+        border-width: 5px;
+    }
+}
+
+@media (max-width: 480px) {
+    .content {
+        width: 100%;
+        height: auto;
+        padding: 20px;
+        border-width: 3px;
+    }
+}
+
+
+
+.perfil-image {
     background-color: rgb(255,198,156);
-    width: 35vh;
-    height: 35vh;
+    width: 30vh;
+    height: 30vh;
     border-radius: 10px;
     box-shadow: 0 15px 15px rgba(0, 0, 0, 0.2);
-    margin-left: 2%;
-    margin-top: 2%;
+    margin-right: 90vh;
+    margin-bottom: 30%;
     border-style: ridge;
     border-color: rgb(189,102,3);
     border-width: 10px;
+}
+
+
+.nome-image{
+    box-shadow: #000000;
+    z-index: 5;
+    height: 60px;
+    margin-left: 43vh;
+    margin-top: 22%;
+    position: absolute;
+    display: flex;
+}
+
+.biografia-image{
+    box-shadow: #000000;
+    z-index: 5;
+    height: 60px;
+    margin-left: 80vh;
+    margin-top: 3%;
+    position: absolute;
+    display: flex;
+}
+
+.infos{
+    margin-right: 30vh;
+    margin-bottom: 15%;
+    position: absolute;
+    font-size: 13px;
+    color: rgb(202,185,157);
+    font-family: 'Ingame';
+}
+
+::-webkit-scrollbar {
+    display: none;
 }
