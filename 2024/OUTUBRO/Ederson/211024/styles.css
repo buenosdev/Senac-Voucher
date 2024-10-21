@@ -1,0 +1,137 @@
+body {
+    background-image: url('./gifs/galaxy/background3.gif');
+    background-color: rgb(0, 0, 0);
+    background-size: cover;
+    background-position: center; 
+    margin: 0; 
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    height: 100vh; 
+    font-family: "VT323", monospace;
+    font-size: 40px;
+    font-style: normal;
+    overflow: hidden;
+}
+
+
+h1{
+    color: rgb(255, 255, 255);
+}
+
+h2{
+    color: rgb(255, 255, 255);
+}
+
+p{
+    color: rgb(255, 255, 255);
+}
+
+a{
+    color: rgb(255, 255, 255);
+}
+
+.astronauta{
+    z-index: 3;
+    position: absolute;
+    margin-top: 30%;
+    margin-left: 23%;
+    height: 30%;
+}
+
+
+.astronauta2{
+    z-index: -2;
+    position: absolute;
+    margin-bottom: 20%;
+    margin-right: 23%;
+    height: 10%;
+}
+
+.lua{
+    z-index: 1;
+    position: absolute;
+    margin-top: 30%;
+    margin-left: 15%;
+    height: 40%;
+}
+
+.planeta1{
+    z-index: -3;
+    position: absolute;
+    margin-bottom: 10%;
+    margin-right: 70%;
+    height: 50%;
+}
+
+
+.planeta2{
+    z-index: -3;
+    position: absolute;
+    margin-top: 10%;
+    margin-right: 30%;
+    height: 30%;
+}
+
+.planeta3{
+    z-index: -3;
+    position: absolute;
+    margin-top: 25%;
+    margin-right: 70%;
+    height: 25%;
+}
+.planeta4{
+    z-index: -3;
+    position: absolute;
+    margin-bottom: 10%;
+    margin-left: 70%;
+    height: 30%;
+}
+
+.planeta5{
+    z-index: -3;
+    position: absolute;
+    margin-top: 25%;
+    margin-left: 75%;
+    height: 30%;
+}
+
+.planeta6{
+    z-index: -3;
+    position: absolute;
+    margin-bottom: 10%;
+    margin-right: 30%;
+    height: 10%;
+}
+
+.planeta7{
+    z-index: -3;
+    position: absolute;
+    margin-bottom: 25%;
+    margin-left: 40%;
+    height: 10%;
+}
+
+.planeta8{
+    z-index: -3;
+    position: absolute;
+    margin-bottom: 30%;
+    margin-right: 10%;
+    height: 10%;
+}
+
+.planeta9{
+    z-index: -99;
+    position: absolute;
+    margin-bottom: 30%;
+    margin-right: 50%;
+    height: 25%;
+}
+
+.planeta10{
+    z-index: -3;
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 50%;
+    height: 10%;
+}
