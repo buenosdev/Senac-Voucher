@@ -1,0 +1,167 @@
+      /* MONALISA 1 */
+      .mona1{
+        border: 1.5px;
+        border-color: black;
+        border-style: solid;
+        box-sizing: content-box;
+        width: 100px;
+        height: 250px;
+        box-shadow: 0px 5px 5px rgb(70, 69, 69);
+        margin-right: 20px;
+        background-image: url(./mona-320.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+        color: rgb(73,228,61);
+        background-color: blue;
+        display: flex;
+        margin: 0%;
+        margin-right: 3%;
+        border-radius: 8px;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .text1{
+        font-size: 8px;
+        align-items: center;
+        text-align: justify;
+        display: flex;
+        margin-top: 120%;
+        padding: 3%;      
+    }
+
+    /* MONALISA 2 */
+    .mona2{
+        border: 1.5px;
+        border-color: black;
+        border-style: solid;
+        box-sizing: content-box;
+        width: 100px;
+        height: 250px;
+        box-shadow: 0px 5px 5px rgb(70, 69, 69);
+        margin-right: 20px;
+        background-image: url(./mona-320.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+        color: red;
+        background-color: rgb(173,216,230);
+        display: flex;
+        margin: 0%;
+        border-radius: 8px;
+        align-items: center;
+        justify-content: center;
+        margin-right: 3%;
+    }
+
+    .text2{
+        font-size: 8px;
+        align-items: center;
+        text-align: justify;
+        display: flex;
+        margin-top: 120%;
+        padding: 3%;      
+    }
+    /* MONALISA 3 */
+    .mona3{
+        border: 1.5px;
+        border-color: black;
+        border-style: solid;
+        box-sizing: content-box;
+        width: 100px;
+        height: 250px;
+        box-shadow: 0px 5px 5px rgb(70, 69, 69);
+        margin-right: 20px;
+        background-image: url(./mona-320.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+        color: rgb(28,132,75);
+        background-color: rgb(95,158,160);
+        display: flex;
+        margin: 0%;
+        border-radius: 8px;
+        align-items: center;
+        justify-content: center;
+        margin-right: 3%;
+    }
+
+    .text3{
+        font-size: 8px;
+        align-items: center;
+        text-align: justify;
+        display: flex;
+        margin-top: 120%;
+        padding: 3%;      
+    }
+    /* MONALISA 4 */
+    .mona4{
+        border: 1.5px;
+        border-color: black;
+        border-style: solid;
+        box-sizing: content-box;
+        width: 100px;
+        height: 250px;
+        box-shadow: 0px 5px 5px rgb(70, 69, 69);
+        margin-right: 20px;
+        background-image: url(./mona-320.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+        color: rgb(98,200,153);
+        background-color: rgb(255,127,80);
+        display: flex;
+        margin: 0%;
+        border-radius: 8px;
+        align-items: center;
+        justify-content: center;
+        margin-right: 3%;
+    }
+
+    .text4{
+        font-size: 8px;
+        align-items: center;
+        text-align: justify;
+        display: flex;
+        margin-top: 120%;
+        padding: 3%;      
+    }
+    /* MONALISA 5 */
+    .mona5{
+        border: 1.5px;
+        border-color: black;
+        border-style: solid;
+        box-sizing: content-box;
+        width: 100px;
+        height: 250px;
+        box-shadow: 0px 5px 5px rgb(70, 69, 69);
+        margin-right: 20px;
+        background-image: url(./mona-320.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+        color: rgb(126,113,109);
+        background-color: rgb(122,23,26);
+        display: flex;
+        margin: 0%;
+        border-radius: 8px;
+        align-items: center;
+        justify-content: center;
+        margin-right: 3%;
+    }
+
+    .text5{
+        font-size: 8px;
+        align-items: center;
+        text-align: justify;
+        display: flex;
+        margin-top: 120%;
+        padding: 3%;      
+    }
+
+    /* Nav */
+    .nav{
+        display: flex;
+    }
+
+    body{
+        justify-content: center;
+        align-items: center;
+        background-color: rgb(38,180,207);
+    }
