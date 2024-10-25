@@ -1,0 +1,114 @@
+
+.grid-container{
+    display: grid;
+    grid-template-columns: 20% 20% 20%;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 13%;
+    column-gap: 50px;
+    row-gap: 100px;
+    position: relative;
+}
+
+
+
+
+.item2{
+    background-color: aliceblue;
+    border: 1px;
+    border-color: red;
+    border-style: solid;
+    color: black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.item3{
+    background-color: aliceblue;
+    border: 1px;
+    border-color: red;
+    border-style: solid;
+    color: black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.item4{
+    background-color: aliceblue;
+    border: 1px;
+    border-color: red;
+    border-style: solid;
+    color: black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    /* grid-area: 2/2/4/4; */
+}
+
+.item5{
+    background-color: aliceblue;
+    border: 1px;
+    border-color: red;
+    border-style: solid;
+    color: black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.item5{
+    background-color: aliceblue;
+    border: 1px;
+    border-color: red;
+    border-style: solid;
+    color: black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.item6{
+    background-color: aliceblue;
+    border: 1px;
+    border-color: red;
+    border-style: solid;
+    color: black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.item7{
+    background-color: aliceblue;
+    border: 1px;
+    border-color: red;
+    border-style: solid;
+    color: black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.item8{
+    background-color: aliceblue;
+    border: 1px;
+    border-color: red;
+    border-style: solid;
+    color: black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.item9{
+    background-color: aliceblue;
+    border: 1px;
+    border-color: red;
+    border-style: solid;
+    color: black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
