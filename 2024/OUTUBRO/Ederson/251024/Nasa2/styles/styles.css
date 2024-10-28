@@ -13,39 +13,20 @@ body {
     background-color: rgb(0, 0, 0);
     position: absolute;
     top: 0;
-    left: 0; 
+    left: 0;
+    width: 100%;
     background-position: center center;
-    background-size: cover; 
+    background-size: cover;
     z-index: -9;
 }
 
-.nav{
-    padding: 20px;
-    font-size: 25px;
+.nav {
+    font-size: 150%;
     text-align: right;
-    margin-bottom: 10%;
     backdrop-filter: blur(2px);
-
+    margin: 1%;
+    margin-right: 10%;
 }
-
-.nasa{
-    text-align: left;
-    font-size: 40px;
-    position: relative;
-    padding-left: 0px;
-    margin-right: 900px;
-    display: flexbox;
-}
-
-.nasa:hover{
-    text-align: left;
-    font-size: 40px;
-    position: relative;
-    padding-left: 0px;
-    margin-right: 900px;
-    color: rgb(16, 212, 226);
-}
-
 
 h2{
     color: rgb(255, 255, 255);
@@ -80,13 +61,88 @@ a:hover{
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
     font-size: 16px;
     margin: 4px 2px;
-    cursor: pointer;
     border-radius: 8px;
     transition: background-color 0.5s ease;
+    font-family: "Righteous", sans-serif;
 }
 .botao:hover{
-    background-color: #4CAF50;
+    background-color: #2a7bbd;
+}
+
+
+
+
+/* CONTEUDO */
+
+
+
+.grid-container{
+    display: flex;
+    grid-template-columns: 20% 20% 20%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+    column-gap: 100px;
+    row-gap: 100px;
+    position: relative;
+}
+
+
+.item1{
+    border: 1px;
+    border-color: rgb(179, 53, 7);
+    height: 350px;
+    width: 300px;
+    border-radius: 2%;
+    border-style: solid;
+    color: black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    backdrop-filter: blur(3px);
+}
+
+
+.item2{
+    border: 1px;
+    border-color: rgb(179, 53, 7);
+    height: 350px;
+    width: 300px;
+    border-radius: 2%;
+    border-style: solid;
+    color: black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    backdrop-filter: blur(3px);
+}
+
+.item3{
+    border: 1px;
+    border-color: rgb(179, 53, 7);
+    height: 350px;
+    width: 300px;
+    border-radius: 2%;
+    border-style: solid;
+    color: black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    backdrop-filter: blur(3px);
+}
+
+.item4{
+    border: 1px;
+    border-color: rgb(179, 53, 7);
+    height: 350px;
+    width: 300px;
+    border-radius: 2%;
+    border-style: solid;
+    color: black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    backdrop-filter: blur(3px);
 }
