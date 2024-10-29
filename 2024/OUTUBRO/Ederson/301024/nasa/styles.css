@@ -1,0 +1,309 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+body{
+    font-family: "Righteous", sans-serif;
+    font-style: normal;
+    margin: 0px;
+}
+
+*{
+    list-style-type: none;
+    text-decoration: none;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.nav nav {
+    font-size: 150%;
+    backdrop-filter: blur(2px);
+    display: flex;
+    justify-content:space-around;
+    flex-direction: row;
+    position: fixed;
+    height: max-content;
+    width: 100vh;
+    z-index: 99;
+}
+
+.nav ul{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+}
+
+.nav a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 10px;
+}
+
+.nav a:hover{
+    color: rgb(182, 181, 181);
+
+}
+
+.content{
+    align-items: center;
+    text-align: center;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background-position: center center;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* Página 1 */
+
+.home{
+    background-image: url(../img/lua.jpg);
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+}
+
+/* Página 2 */
+
+.novidades{
+    background-image: url(/img/marte.jpg);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Página 3 */
+
+.espaco{
+    background-image: url(/img/galaxy/background2.gif);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Página 4 */
+.clima{
+    background-image: url(/img/clima.jpg);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Página 5 */
+.sobre{
+    background-image: url(/img/nasa.gif);
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Conteúdo da página 1 */
+
+
+
+.content h1{
+    font-size: 72px;
+    background: -webkit-linear-gradient(rgb(255, 255, 255) 22%,rgb(255, 255, 255) 33%,rgb(255, 255, 255) 33%,rgb(255, 255, 255) 22%,rgb(255, 255, 255) 22%, rgba(2,0,36,1) 80%);;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.content h4{
+    color: white;
+}
+
+
+
+
+
+.botao{
+    background-color: #2196F3;
+    border: none;
+    color: #fff;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 8px;
+    transition: background-color 0.5s ease;
+    font-family: "Righteous", sans-serif;
+}
+.botao:hover{
+    background-color: #2a7bbd;
+}
+
+
+/* Conteúdo da página 2 */
+
+
+
+.grid-container{
+    display: flex;
+    grid-template-columns: 20% 20% 20%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+    column-gap: 100px;
+    row-gap: 100px;
+    position: relative;
+}
+
+
+.item1{
+    border: 1px;
+    border-color: rgb(179, 53, 7);
+    height: 350px;
+    width: 300px;
+    border-radius: 2%;
+    border-style: solid;
+    color: black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    backdrop-filter: blur(3px);
+}
+
+
+.item2{
+    border: 1px;
+    border-color: rgb(179, 53, 7);
+    height: 350px;
+    width: 300px;
+    border-radius: 2%;
+    border-style: solid;
+    color: black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    backdrop-filter: blur(3px);
+}
+
+.item3{
+    border: 1px;
+    border-color: rgb(179, 53, 7);
+    height: 350px;
+    width: 300px;
+    border-radius: 2%;
+    border-style: solid;
+    color: black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    backdrop-filter: blur(3px);
+}
+
+.item4{
+    border: 1px;
+    border-color: rgb(179, 53, 7);
+    height: 350px;
+    width: 300px;
+    border-radius: 2%;
+    border-style: solid;
+    color: black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    backdrop-filter: blur(3px);
+}
+
+
+/* ESTILIZAÇÃO DAS LETRAS */
+
+h1{
+    font-size: 5em;
+}
+
+
+.espaco h1{
+    color: white;
+    text-align: center; 
+}
+
+.espaco h2, .espaco h1{
+    color: white;
+    text-align: center;
+}
+
+.novidades h1{
+    color: white;
+    text-align: center;
+}
+
+.novidades p{
+    color: white;
+    font-size: 1.8em;
+    text-align: center;
+}
+
+.clima h1{
+    color: rgb(0, 110, 255);
+}
+
+.clima p{
+    color: rgb(59, 97, 68);
+    margin-bottom: 25%;
+    font-size: 2em;
+}
+
+.sobre h1{
+    color: white;
+}
+
+.sobre p{
+    font-size: 2em;
+    color:white;
+}
+/* FOOTER */
+
+footer {
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: 10px;
+    text-align: center;
+    position: relative;
+    justify-content: center;
+    width: 98.1vw;
+    display: flex;
+    font-size: 5px
+    flex-direction: column-reverse;
+    top: 34%;
+}
+
