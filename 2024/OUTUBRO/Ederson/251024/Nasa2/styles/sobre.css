@@ -14,18 +14,28 @@ body {
     position: absolute;
     top: 0;
     left: 0;
-    width: 100%;
+    width: 100vh;
     background-position: center center;
     background-size: cover;
     z-index: -9;
 }
 
-.nav {
+.nav nav {
     font-size: 150%;
-    text-align: right;
     backdrop-filter: blur(2px);
-    margin: 1%;
-    margin-right: 10%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    position: absolute;
+    height: max-content;
+    width: 100%;
+}
+
+.nav ul{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    align-items: center;
 }
 
 h2{
@@ -34,25 +44,35 @@ h2{
 
 
 
-a{
-    color: rgb(255, 255, 255);
+.nav a{
+    color: rgb(238, 14, 14);
     text-decoration: none;
     padding: 10px;
 }
 
-a:hover{
-    color: rgb(182, 181, 181);
+.nav a:hover{
+    color: rgb(197, 5, 5);
 
 }
 
 .content{
-    margin: 0 auto;
     align-items: center;
     text-align: center;
     font-size: 30px;
-    margin-top: 5%;
+    display: flex;
+    flex-direction: column;
+    background: url("../img/nasa.gif");
+    height: 100vh;
+    background-position: center center;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
+*{
+    list-style-type: none;
+    text-decoration: none;
+}
 
 .botao{
     background-color: #2196F3;

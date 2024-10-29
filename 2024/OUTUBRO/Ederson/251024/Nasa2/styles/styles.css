@@ -20,39 +20,60 @@ body {
     z-index: -9;
 }
 
-.nav {
+.nav nav {
     font-size: 150%;
-    text-align: right;
     backdrop-filter: blur(2px);
-    margin: 1%;
-    margin-right: 10%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    position: absolute;
+    height: max-content;
+    width: 100%;
 }
 
-h2{
-    color: rgb(255, 255, 255);
+.nav ul{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    align-items: center;
 }
 
-
-
-a{
+.nav a{
     color: rgb(255, 255, 255);
     text-decoration: none;
     padding: 10px;
 }
 
-a:hover{
+.nav a:hover{
     color: rgb(182, 181, 181);
 
 }
 
 .content{
-    margin: 0 auto;
     align-items: center;
     text-align: center;
     font-size: 30px;
-    margin-top: 15%;
+    display: flex;
+    flex-direction: column;
+    background: url("../img/lua.jpg");
+    height: 100vh;
+    background-position: center center;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.content h1{
+    font-size: 72px;
+    background: -webkit-linear-gradient(rgb(255, 255, 255) 22%,rgb(255, 255, 255) 33%,rgb(255, 255, 255) 33%,rgb(255, 255, 255) 22%,rgb(255, 255, 255) 22%, rgba(2,0,36,1) 80%);;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
+
+*{
+    list-style-type: none;
+    text-decoration: none;
+}
 
 .botao{
     background-color: #2196F3;
