@@ -1,4 +1,4 @@
-class livro:
+---class livro:
     def __init__ (self,titulo,autor,emprestimo=False):
         self.titulo = titulo
         self.autor = autor
