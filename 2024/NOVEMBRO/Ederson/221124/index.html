@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+
+
+
+<button onclick="window.print()">Print this page</button>
+
+
+ <!-- <script type="text/javascript">
+var far = window.prompt('Digite a temperatura em Fahrenheit')
+
+censiu = (5/9) * (far - 32)
+
+window.alert("A temperatura é " + censiu)
+ </script>    -->
+
+ <script type="text/javascript" src="script.js">
+
+
+var nome = window.prompt('Digite o nome do produto')
+var quantidade = window.prompt('Digite a quantidade a ser comprada')
+var valor = window.prompt('Digite o valor unitário')
+var desconto = window.prompt('Digite o desconto a ser aplicado para o pagamento (%)')
+
+
+var valor_t = (quantidade * valor) * (1 - desconto / 100);
+
+window.alert("O produto: " + nome + " terá o valor total de: " + valor_t)
+ </script>
+
+<script type="text/javascript" src="script.js">
+
+
+    var reais = window.prompt('Digite o valor em reais')
+    var cotacao = window.prompt('Digite a cotação do dólar')
+    
+    valor_t = reais * cotacao
+    
+    window.alert("O valor convertido é de: " + valor_t)
+     </script>
+
+</body>
+</html>
