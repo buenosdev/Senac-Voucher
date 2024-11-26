@@ -8,21 +8,17 @@ from PyQt6.QtWidgets import QApplication, QMainWindow, QRadioButton
 # pip install PyQt6
 # https://build-system.fman.io/qt-designer-download
  
-ui_file = 'Views/main.ui'
+telaMain = 'Views/main.ui'
  
 class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
-        uic.load_ui.loadUi(ui_file, self)
+        uic.load_ui.loadUi(telaMain, self)
         self.button.clicked.connect(self.click_cad)
  
     def click_cad(self):
-        titulo = self.nTtitle.text()
-        autor = self.nAutor.text()
-        genero = self.nGen.text()
-        status = 'Disponível'
-        codigo = self.nCod.text()
-        B.add_livro(titulo, autor, genero, status, codigo)
+        titulo = self.inputTitulo.text()
+        biblioteca.cadastrar_livro(titulo)
  
 if __name__ == '__main__':
     app = QApplication(sys.argv)

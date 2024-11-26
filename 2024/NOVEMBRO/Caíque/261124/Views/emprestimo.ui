@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>797</width>
-    <height>623</height>
+    <height>742</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -23,7 +23,7 @@
       <x>0</x>
       <y>0</y>
       <width>801</width>
-      <height>621</height>
+      <height>1151</height>
      </rect>
     </property>
     <layout class="QVBoxLayout" name="verticalLayout">
@@ -94,7 +94,7 @@
             <set>Qt::ImhNone</set>
            </property>
            <property name="text">
-            <string>Área de Cadastro de Livro</string>
+            <string>Área de Empréstimo de Livro</string>
            </property>
            <property name="scaledContents">
             <bool>false</bool>
@@ -153,8 +153,20 @@
            </property>
           </spacer>
          </item>
-         <item alignment="Qt::AlignHCenter">
-          <widget class="QLineEdit" name="inputTitulo">
+         <item alignment="Qt::AlignHCenter|Qt::AlignVCenter">
+          <widget class="QLineEdit" name="lineEdit">
+           <property name="maximumSize">
+            <size>
+             <width>16777215</width>
+             <height>16777215</height>
+            </size>
+           </property>
+           <property name="sizeIncrement">
+            <size>
+             <width>0</width>
+             <height>0</height>
+            </size>
+           </property>
            <property name="styleSheet">
             <string notr="true">background-color:white;
 border-radius: 2px;
