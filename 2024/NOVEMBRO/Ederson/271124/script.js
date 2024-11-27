@@ -41,10 +41,13 @@ const inputs = document.querySelectorAll('.required');
 
 const spans = document.querySelectorAll('.span-required');
 
-const email = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
+const regex = /^\d{7}-\d{2}\.\d{4}\.\d{1}\.\d{2}\.\d{4}$/;
+
+// 1234567-89.2024.8.12.0001
+
 
 function emailValidate(){
-    if (email.test(inputs[0].value)){
+    if (regex.test(inputs[0].value)){
         removeError(0)
     
 }
