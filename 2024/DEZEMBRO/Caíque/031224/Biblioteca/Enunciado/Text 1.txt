@@ -1,0 +1,23 @@
+Entrega final do sistema de gerenciamento de biblioteca
+Vence 3 de dezembro de 2024 às 11:00
+Instruções
+Views - 
+Tela de Cadastro de usuário
+Tela de Cadastro de Livro
+Tela de Cadastro de empréstimo
+Tela de login
+
+Models - 
+Usuario
+Administrador (extender de Usuario)
+Livro
+Emprestimo
+Banco de dados
+
+Controller - 
+Usuario
+Administrador (extender de UsuarioController)
+Livro
+Emprestimo
+
+Services.
