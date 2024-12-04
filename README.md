@@ -12,7 +12,93 @@ This repository is dedicated to documenting my progress in the Developer Voucher
 
 > [!IMPORTANT]  
 > # Instruções de caminhos/Path instructions:
-` ``` `
+
+---
+
+### **Estrutura de Diretórios**
+📦 **2024**  
+┣ 📂!OUTROS  
+┣ 📂DEZEMBRO  
+┣ 📂JULHO  
+┣ 📂MARÇO - MAIO  
+---
+
+### **Projetos usando Python**
+- 📂 **Ederson**  
+  - **080824/Desafios_TDE**:  
+    - `ex1.py` até `ex7.py`  
+
+  - **150824/teste**:  
+    - `botão_contador.py`, `cadastro_cliente.py`, `teste.py`  
+
+  - **Reforço/Maio/25.05**:  
+    - `a1.py` até `a6.py`  
+
+- 📂 **Édini**  
+  - **Exercicio/AT2 - VEICULOS**:  
+    - `main.py`, `recomendacao.py`, `veiculos.py`  
+
+  - **Avaliação 1/Avaliação/5 exercicios**:  
+    - `AT5.PY.py`, `ATV1.PY` até `ATV4.PY`  
+
+---
+
+### **Breves Trabalhos e Avaliações**
+- 📂 **Ederson**  
+  - **210824/atv1.txt**  
+  - **220824/atv2.txt**  
+
+- 📂 **Édini**  
+  - **Avaliação 1**:  
+    - `Carteirinha.py`, `Pseudo Código - Carteirinha.txt`  
+
+  - **Dicionário**:  
+    - `AT1.PY` até `AT4.PY`  
+
+---
+
+### **Projetos usando Banco de Dados**
+- 📂 **Ederson**  
+  - **Banco 2/Banco 2.sql**  
+  - **Escola/Escola.sql**  
+  - **Netflix/Netflix.sql**  
+  - **Banco de dados**:  
+    - `Treino_Join.sql`, `Treino_Select.sql`  
+  - **300824/Join.sql**  
+
+- 📂 **Édini**  
+  - **270824/estoque.db**  
+
+---
+
+### **Projetos usando Portugol**
+*Sem informações disponíveis sobre Portugol nesta estrutura.*
+
+---
+
+### **Trabalhos de Caso de Uso e Outros**
+- 📂 **Ederson**  
+  - **041224/Enúnciado**:  
+    - `Exercícios- PHP - Forms.ppt`  
+
+  - **031224/Biblioteca**  
+    - Interface gráfica (`*.ui`) e scripts associados.  
+
+---
+
+### **Trabalhos mais complexos**
+- 📂 **Édini**  
+  - **AT1 - ANIMAIS**  
+    - Scripts de manipulação e organização de reinos.  
+
+---
+
+### **Projeto Integrador**
+- 📂 **Enilda**  
+  - **Fizemos o projeto no Figma do Projeto Integrador (PI).txt**  
+
+--- 
+
 
 
 
