@@ -12,8 +12,7 @@ This repository is dedicated to documenting my progress in the Developer Voucher
 
 > [!IMPORTANT]  
 > # Instruções de caminhos/Path instructions:
-```
-```
+` ``` 
 
 
 
