@@ -64,7 +64,7 @@ html{
 /* Página 1 */
 
 .home{
-    background-image: url(../img/lua.jpg);
+    background-image: url(../../301024/nasa/img/lua.jpg);
     display: flex;
     justify-content: center;
     height: 100vh;
@@ -78,7 +78,7 @@ html{
 /* Página 2 */
 
 .novidades{
-    background-image: url(/img/marte.jpg);
+    background-image: url(../../301024/nasa/img/marte.jpg);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -93,7 +93,7 @@ html{
 /* Página 3 */
 
 .espaco{
-    background-image: url(/img/galaxy/background2.gif);
+    background-image: url(../../301024/nasa/img/galaxy/background2.gif);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -107,7 +107,7 @@ html{
 
 /* Página 4 */
 .clima{
-    background-image: url(/img/clima.jpg);
+    background-image: url(../../301024/nasa/img/clima.jpg);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -121,7 +121,7 @@ html{
 
 /* Página 5 */
 .sobre{
-    background-image: url(/img/nasa.gif);
+    background-image: url(../../301024/nasa/img/nasa.gif);
     background-color: black;
     display: flex;
     flex-direction: column;
@@ -140,7 +140,7 @@ html{
 
 .content h1{
     font-size: 72px;
-    background: -webkit-linear-gradient(rgb(255, 255, 255) 22%,rgb(255, 255, 255) 33%,rgb(255, 255, 255) 33%,rgb(255, 255, 255) 22%,rgb(255, 255, 255) 22%, rgba(2,0,36,1) 80%);;
+    background: -webkit-linear-gradient(rgb(255, 255, 255) 22%,rgb(255, 255, 255) 33%,rgb(255, 255, 255) 33%,rgb(255, 255, 255) 22%,rgb(255, 255, 255) 22%, rgba(2,0,36,1) 80%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -302,7 +302,7 @@ footer {
     justify-content: center;
     width: 98.1vw;
     display: flex;
-    font-size: 5px
+    font-size: 5px;
     flex-direction: column-reverse;
     top: 34%;
 }
